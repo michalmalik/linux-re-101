@@ -51,6 +51,7 @@ Work in progress as I am actively collecting these.
 - Source code of infection techniques http://vxheaven.org/herm1t/examples.tar.gz by herm1t
 - "Runtime binary encryption" http://phrack.org/issues/58/5.html
 - "Next-Gen Runtime Binary Encryption" http://phrack.org/issues/63/13.html
+- "Binary Protection Schemes" http://indra.linuxstudy.pe.kr/study/Binary%20Protection%20Schemes.pdf
 - "The Cerberus ELF interface" http://phrack.org/issues/61/8.html#article
 - "Malicious Code Injection via /dev/mem" http://www.blackhat.com/presentations/bh-europe-09/Lineberry/BlackHat-Europe-2009-Lineberry-code-injection-via-dev-mem.pdf
 - VX Heaven collection of viruses http://vxheaven.org/vl.php?dir=Virus.Linux
