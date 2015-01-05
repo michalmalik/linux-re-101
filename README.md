@@ -9,7 +9,8 @@ Work in progress as I am actively collecting these.
     
 #### Basics
 
-1. "Code as Art: Assembly x86_64 programming for Linux" http://0xax.blogspot.sk/p/assembly-x8664-programming-for-linux.html
+1. "Gentle Introduction to x86-64 Assembly" http://www.x86-64.org/documentation/assembly.html 
+- "Code as Art: Assembly x86_64 programming for Linux" http://0xax.blogspot.sk/p/assembly-x8664-programming-for-linux.html
 - "The dissection of a simple hello world ELF file" https://github.com/mewrev/dissection and "ELF101" http://imgur.com/a/JEObT
 - "A Whirlwind Tutorial on Creating Really Teensy ELF Executables for Linux" http://www.muppetlabs.com/~breadbox/software/tiny/teensy.html
 - "Startup state of a Linux/i386 ELF binary" http://asm.sourceforge.net/articles/startup.html and http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html
@@ -34,7 +35,7 @@ Work in progress as I am actively collecting these.
 - "Linux x86 run-time process manipulation" http://hick.org/code/skape/papers/needle.txt
 - "Linux on the Half-ELF" http://mammon.github.io/tales/linux_re.txt
 
-#### Infection methods, viruses, obfuscation and encryption
+#### Infection techniques, viruses, obfuscation and encryption
 
 1. "UNIX VIRUSES" http://ouah.org/unix-viruses.txt
 - "Linux viruses - ELF file format" by Marius Van Oers http://www.mcafee.com/us/resources/white-papers/wp-linux-viruses-elf-file-format.pdf
@@ -50,20 +51,31 @@ Work in progress as I am actively collecting these.
 - Source code of infection techniques http://vxheaven.org/herm1t/examples.tar.gz by herm1t
 - "Runtime binary encryption" http://phrack.org/issues/58/5.html
 - "Next-Gen Runtime Binary Encryption" http://phrack.org/issues/63/13.html
+- "The Cerberus ELF interface" http://phrack.org/issues/61/8.html#article
+- "Malicious Code Injection via /dev/mem" http://www.blackhat.com/presentations/bh-europe-09/Lineberry/BlackHat-Europe-2009-Lineberry-code-injection-via-dev-mem.pdf
+- VX Heaven collection of viruses http://vxheaven.org/vl.php?dir=Virus.Linux
+- http://vxheaven.org/herm1t/ (Lacrimae is mind-bending)
+- "Shiva - Advances in ELF Binary Encryption" https://www.blackhat.com/presentations/bh-usa-03/bh-us-03-mehta/bh-us-03-mehta.pdf
+- "Burneye protector" http://packetstormsecurity.com/files/30648/burneye-1.0.1-src.tar.bz2.html
+- "ELF Encrypter" http://elf-encrypter.sourceforge.net/
 
-#### Kernel hacking & stuff
+#### Kernel rootkits, LKMs & stuff
 
 1. "Anatomy of the Linux kernel" http://www.ibm.com/developerworks/linux/library/l-linux-kernel/index.html
 - "Linux process management" http://www.ibm.com/developerworks/linux/library/l-linux-process-management/index.html
 - "Linux processes" http://www.cs.columbia.edu/~junfeng/10sp-w4118/lectures/l07-proc-linux.pdf
 - "Kernel hacking" http://info.fs.tum.de/images/2/21/2011-01-19-kernel-hacking.pdf
-- "Write your first Linux Kernel module" http://www.linuxvoice.com/be-a-kernel-hacker/?pk_campaign=hn&pk_kwd=3
+- "Be a kernel hacker" http://www.linuxvoice.com/be-a-kernel-hacker/?pk_campaign=hn&pk_kwd=3
+- "Kernel hacking HOWTO" http://kernelnewbies.org/New_Kernel_Hacking_HOWTO
 - "Day 5: I wrote a kernel module" http://jvns.ca/blog/2013/10/07/day-5-i-wrote-a-kernel-module/
 - "Linux Rootkits 101" http://turbochaos.blogspot.sk/2013/09/linux-rootkits-101-1-of-3.html
 - "Linux Rootkits 201" http://turbochaos.blogspot.sk/2013/10/writing-linux-rootkits-201-23.html
 - "Linux Rootkits 301" http://turbochaos.blogspot.sk/2013/10/writing-linux-rootkits-301_31.html 
 - "Handling Interrupt Descriptor Table for fun and profit" http://www.phrack.org/issues.html?issue=59&id=4
 - "Intercepting System Calls and Dispatchers – Linux" https://ruinedsec.wordpress.com/2013/04/04/modifying-system-calls-dispatching-linux/
+- "Linux Kernel Rootkits" http://www.la-samhna.de/library/rootkits/index.html
+- "Linux Kernel Debugging using KGDB/GDB" http://sploitfun.blogspot.sk/2013/06/linux-kernel-debugging-using-kgdbgdb.html
+- "Kernel instrumentation using kprobes" http://phrack.org/issues.html?issue=67&id=6#article
 
 #### Other
 1. "Introduction to Reverse Engineering Software in Linux" http://ouah.org/RevEng/ 
@@ -71,3 +83,13 @@ Work in progress as I am actively collecting these.
 - https://github.com/citypw/citypw-SCFE/tree/master/security
 - http://mammon.github.io/
 - https://code.google.com/p/corkami/downloads/list
+- "Kickers of ELF" http://www.muppetlabs.com/~breadbox/software/elfkickers.html
+- "How to detect virtualization on Linux" http://www.dmo.ca/blog/detecting-virtualization-on-linux/
+- "Mechanisms to determine VMWare VM" http://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=1009458
+- "Analysis of an unknown binary, for the HoneyNet Reverse Challenge" http://old.honeynet.org/reverse/results/sol/sol-06/analysis.html
+- "Hacking the wholism of GNU/Linux net*" http://kernelnewbies.org/Networking?action=AttachFile&do=get&target=hacking_the_wholism_of_linux_net.txt
+- "Linux Device Drivers" https://lwn.net/Kernel/LDD3/
+
+#### Books
+1.  "Malware Forensics Field Guide for Linux Systems" by Cameron H. Malin, Eoghan Casey, James M. Aquilina
+- "Linux (Bezpečnosť a exploity)" by Miroslav Dobšíček and Radim Ballner
