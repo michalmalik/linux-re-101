@@ -9,8 +9,8 @@ Work in progress as I am actively collecting these.
     
 #### Basics
 
-1. "Gentle Introduction to x86-64 Assembly" http://www.x86-64.org/documentation/assembly.html 
-- "Code as Art: Assembly x86_64 programming for Linux" http://0xax.blogspot.sk/p/assembly-x8664-programming-for-linux.html
+1. Optional: "Gentle Introduction to x86-64 Assembly" http://www.x86-64.org/documentation/assembly.html 
+- Optional: "Code as Art: Assembly x86_64 programming for Linux" http://0xax.blogspot.sk/p/assembly-x8664-programming-for-linux.html
 - "The dissection of a simple hello world ELF file" https://github.com/mewrev/dissection and "ELF101" http://imgur.com/a/JEObT
 - "A Whirlwind Tutorial on Creating Really Teensy ELF Executables for Linux" http://www.muppetlabs.com/~breadbox/software/tiny/teensy.html
 - "Startup state of a Linux/i386 ELF binary" http://asm.sourceforge.net/articles/startup.html and http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html
