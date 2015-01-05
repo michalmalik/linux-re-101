@@ -4,7 +4,7 @@ linux-re-101
 Work in progress as I am actively collecting these.
 
 #### Keep these two handy:
-- "Executable and Linkable Format (ELF)" http://www.skyfree.org/linux/references/ELF_Format.pdf
+- "Executable and Linkable Format (ELF)" http://www.skyfree.org/linux/references/ELF_Format.pdf or http://www.muppetlabs.com/~breadbox/software/ELF.txt (I like .txt more)
 - "System V ABI x86-64 Linux" http://www.x86-64.org/documentation/abi.pdf
     
 #### Basics
