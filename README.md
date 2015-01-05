@@ -97,3 +97,4 @@ Work in progress as I am actively collecting these.
 1.  "Malware Forensics Field Guide for Linux Systems" by Cameron H. Malin, Eoghan Casey, James M. Aquilina
 - "Linux (Bezpečnosť a exploity)" by Miroslav Dobšíček and Radim Ballner
 - "Hacking: The Art of Exploitation" by Jon Erickson
+- "The Linux Programming Interface" by Michael Kerrisk
