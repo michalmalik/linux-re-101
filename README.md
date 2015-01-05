@@ -58,6 +58,7 @@ Work in progress as I am actively collecting these.
 - "Shiva - Advances in ELF Binary Encryption" https://www.blackhat.com/presentations/bh-usa-03/bh-us-03-mehta/bh-us-03-mehta.pdf
 - "Burneye protector" http://packetstormsecurity.com/files/30648/burneye-1.0.1-src.tar.bz2.html
 - "ELF Encrypter" http://elf-encrypter.sourceforge.net/
+- "An unofficial analysis of the Retaliation Virus (Authored by JPanic)" http://vxheaven.org/lib/vrn01.html or http://www.bitlackeys.org/papers/retaliation.txt
 
 #### Kernel rootkits, LKMs & stuff
 
@@ -84,6 +85,7 @@ Work in progress as I am actively collecting these.
 - http://mammon.github.io/
 - https://code.google.com/p/corkami/downloads/list
 - "Kickers of ELF" http://www.muppetlabs.com/~breadbox/software/elfkickers.html
+- http://www.bitlackeys.org
 - "How to detect virtualization on Linux" http://www.dmo.ca/blog/detecting-virtualization-on-linux/
 - "Mechanisms to determine VMWare VM" http://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=1009458
 - "Analysis of an unknown binary, for the HoneyNet Reverse Challenge" http://old.honeynet.org/reverse/results/sol/sol-06/analysis.html
