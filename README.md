@@ -65,9 +65,9 @@ Work in progress as I am actively collecting these.
 1. "Anatomy of the Linux kernel" http://www.ibm.com/developerworks/linux/library/l-linux-kernel/index.html
 - "Linux process management" http://www.ibm.com/developerworks/linux/library/l-linux-process-management/index.html
 - "Linux processes" http://www.cs.columbia.edu/~junfeng/10sp-w4118/lectures/l07-proc-linux.pdf
+- "Kernel hacking HOWTO" http://kernelnewbies.org/New_Kernel_Hacking_HOWTO
 - "Kernel hacking" http://info.fs.tum.de/images/2/21/2011-01-19-kernel-hacking.pdf
 - "Be a kernel hacker" http://www.linuxvoice.com/be-a-kernel-hacker/?pk_campaign=hn&pk_kwd=3
-- "Kernel hacking HOWTO" http://kernelnewbies.org/New_Kernel_Hacking_HOWTO
 - "Day 5: I wrote a kernel module" http://jvns.ca/blog/2013/10/07/day-5-i-wrote-a-kernel-module/
 - "Linux Rootkits 101" http://turbochaos.blogspot.sk/2013/09/linux-rootkits-101-1-of-3.html
 - "Linux Rootkits 201" http://turbochaos.blogspot.sk/2013/10/writing-linux-rootkits-201-23.html
@@ -83,7 +83,7 @@ Work in progress as I am actively collecting these.
 - "100 GDB tips" https://github.com/hellogcc/100-gdb-tips/tree/master/src
 - https://github.com/citypw/citypw-SCFE/tree/master/security
 - http://mammon.github.io/
-- https://code.google.com/p/corkami/downloads/list
+- https://code.google.com/p/corkami/downloads/list & https://code.google.com/p/corkami/source/browse/#svn/trunk/wip/elf
 - "Kickers of ELF" http://www.muppetlabs.com/~breadbox/software/elfkickers.html
 - http://www.bitlackeys.org
 - "How to detect virtualization on Linux" http://www.dmo.ca/blog/detecting-virtualization-on-linux/
