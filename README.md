@@ -63,7 +63,9 @@ Work in progress as I am actively collecting these.
 
 #### Kernel rootkits, LKMs & stuff
 
-1. "Anatomy of the Linux kernel" http://www.ibm.com/developerworks/linux/library/l-linux-kernel/index.html
+1. "Kernel booting process part 1 "https://github.com/0xAX/linux-insides/blob/master/linux-bootstrap-1.md 
+- "Kernel booting process part 2" https://github.com/0xAX/linux-insides/blob/master/linux-bootstrap-2.md
+- "Anatomy of the Linux kernel" http://www.ibm.com/developerworks/linux/library/l-linux-kernel/index.html
 - "Linux process management" http://www.ibm.com/developerworks/linux/library/l-linux-process-management/index.html
 - "Linux processes" http://www.cs.columbia.edu/~junfeng/10sp-w4118/lectures/l07-proc-linux.pdf
 - "Kernel hacking HOWTO" http://kernelnewbies.org/New_Kernel_Hacking_HOWTO
