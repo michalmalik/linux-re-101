@@ -60,6 +60,7 @@ Work in progress as I am actively collecting these.
 - "Burneye protector" http://packetstormsecurity.com/files/30648/burneye-1.0.1-src.tar.bz2.html
 - "ELF Encrypter" http://elf-encrypter.sourceforge.net/
 - "An unofficial analysis of the Retaliation Virus (Authored by JPanic)" http://vxheaven.org/lib/vrn01.html or http://www.bitlackeys.org/papers/retaliation.txt
+- "LD_NOT_PRELOADED_FOR_REAL" http://haxelion.eu/article/LD_NOT_PRELOADED_FOR_REAL/
 
 #### Kernel rootkits, LKMs & stuff
 
