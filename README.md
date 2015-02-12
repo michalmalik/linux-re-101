@@ -95,6 +95,8 @@ Work in progress as I am actively collecting these.
 - "Analysis of an unknown binary, for the HoneyNet Reverse Challenge" http://old.honeynet.org/reverse/results/sol/sol-06/analysis.html
 - "Hacking the wholism of GNU/Linux net*" http://kernelnewbies.org/Networking?action=AttachFile&do=get&target=hacking_the_wholism_of_linux_net.txt
 - "Linux Device Drivers" https://lwn.net/Kernel/LDD3/
+- "Toolkit to detect/crash/attack GNU debugging tools" https://github.com/jvoisin/pangu
+- "ld-linux code injector" https://github.com/sduverger/ld-shatner
 
 #### Books
 1.  "Malware Forensics Field Guide for Linux Systems" by Cameron H. Malin, Eoghan Casey, James M. Aquilina
