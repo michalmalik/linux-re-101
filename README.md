@@ -81,6 +81,7 @@ Work in progress as I am actively collecting these.
 - "Linux Kernel Rootkits" http://www.la-samhna.de/library/rootkits/index.html
 - "Linux Kernel Debugging using KGDB/GDB" http://sploitfun.blogspot.sk/2013/06/linux-kernel-debugging-using-kgdbgdb.html
 - "Kernel instrumentation using kprobes" http://phrack.org/issues.html?issue=67&id=6#article
+- "Infecting loadable kernel modules versions 2.6.x/3.0.x" http://phrack.org/issues/68/11.html#article
 
 #### Other
 1. "Introduction to Reverse Engineering Software in Linux" http://ouah.org/RevEng/ 
