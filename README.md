@@ -82,6 +82,8 @@ Work in progress as I am actively collecting these.
 - "Linux Kernel Debugging using KGDB/GDB" http://sploitfun.blogspot.sk/2013/06/linux-kernel-debugging-using-kgdbgdb.html
 - "Kernel instrumentation using kprobes" http://phrack.org/issues.html?issue=67&id=6#article
 - "Infecting loadable kernel modules versions 2.6.x/3.0.x" http://phrack.org/issues/68/11.html#article
+- "(nearly) Complete Linux Loadable Kernel Modules" https://www.thc.org/papers/LKM_HACKING.html
+- "Check the README on this one" https://github.com/citypw/citypw-SCFE/tree/master/security/rootkit/hide_file
 
 #### Other
 1. "Introduction to Reverse Engineering Software in Linux" http://ouah.org/RevEng/ 
