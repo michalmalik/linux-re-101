@@ -64,8 +64,7 @@ Work in progress as I am actively collecting these.
 
 #### Kernel rootkits, LKMs & stuff
 
-1. "Kernel booting process part 1 "https://github.com/0xAX/linux-insides/blob/master/linux-bootstrap-1.md 
-- "Kernel booting process part 2" https://github.com/0xAX/linux-insides/blob/master/linux-bootstrap-2.md
+1. "A series of posts about the linux kernel and its insides." http://0xax.gitbooks.io/linux-insides/content/index.html
 - "Anatomy of the Linux kernel" http://www.ibm.com/developerworks/linux/library/l-linux-kernel/index.html
 - "Linux process management" http://www.ibm.com/developerworks/linux/library/l-linux-process-management/index.html
 - "Linux processes" http://www.cs.columbia.edu/~junfeng/10sp-w4118/lectures/l07-proc-linux.pdf
@@ -84,6 +83,7 @@ Work in progress as I am actively collecting these.
 - "Infecting loadable kernel modules versions 2.6.x/3.0.x" http://phrack.org/issues/68/11.html#article
 - "(nearly) Complete Linux Loadable Kernel Modules" https://www.thc.org/papers/LKM_HACKING.html
 - "Check the README on this one" https://github.com/citypw/citypw-SCFE/tree/master/security/rootkit/hide_file
+- "UNIX and Linux based rootkits" http://www.kernelhacking.com/rodrigo/docs/StMichael/BuntenSlides.pdf
 
 #### Other
 1. "Introduction to Reverse Engineering Software in Linux" http://ouah.org/RevEng/ 
