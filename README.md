@@ -35,6 +35,7 @@ Work in progress as I am actively collecting these.
 - "ptrace() on 64-bit system" http://theantway.com/2013/01/notes-for-playing-with-ptrace-on-64-bits-ubuntu-12-10/
 - "Linux x86 run-time process manipulation" http://hick.org/code/skape/papers/needle.txt
 - "Linux on the Half-ELF" http://mammon.github.io/tales/linux_re.txt
+- "Linkers - 20 parts" http://www.airs.com/blog/page/4?s=linkers
 
 #### Infection techniques, viruses, obfuscation and encryption
 
