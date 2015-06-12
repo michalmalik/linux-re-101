@@ -21,6 +21,7 @@ Work in progress as I am actively collecting these.
 - "About ELF auxiliary vectors" http://articles.manugarg.com/aboutelfauxiliaryvectors.html
 - "What is linux-gate.so.1?" http://www.trilithium.com/johan/2005/08/linux-gate/
 - "Understanding ld-linux.so.2 " http://www.cs.virginia.edu/~dww4s/articles/ld_linux.html
+- "Understanding Linux ELF RTLD internals" http://s.eresi-project.org/inc/articles/elf-rtld.txt
 - "How statically linked programs run on Linux" http://eli.thegreenplace.net/2012/08/13/how-statically-linked-programs-run-on-linux
 - "Static linking (x86) internals" http://sploitfun.blogspot.sk/2013/02/linking-with-static-library-internals.html
 - "Dynamic linking (x86) internals" http://sploitfun.blogspot.sk/2013/06/dynamic-linking-internals.html
