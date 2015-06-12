@@ -20,6 +20,7 @@ Work in progress as I am actively collecting these.
 - "Anatomy of a system call, part 2" http://lwn.net/SubscriberLink/604515
 - "About ELF auxiliary vectors" http://articles.manugarg.com/aboutelfauxiliaryvectors.html
 - "What is linux-gate.so.1?" http://www.trilithium.com/johan/2005/08/linux-gate/
+- "Understanding ld-linux.so.2 " http://www.cs.virginia.edu/~dww4s/articles/ld_linux.html
 - "How statically linked programs run on Linux" http://eli.thegreenplace.net/2012/08/13/how-statically-linked-programs-run-on-linux
 - "Static linking (x86) internals" http://sploitfun.blogspot.sk/2013/02/linking-with-static-library-internals.html
 - "Dynamic linking (x86) internals" http://sploitfun.blogspot.sk/2013/06/dynamic-linking-internals.html
@@ -105,6 +106,8 @@ Work in progress as I am actively collecting these.
 - "ld-linux code injector" https://github.com/sduverger/ld-shatner
 - "Linux 64-bit Return Oriented Programming" https://crypto.stanford.edu/~blynn/rop/
 - "Shellcoding in Linux" https://www.exploit-db.com/docs/21013.pdf
+- "Linux Data Structures" http://tldp.org/LDP/tlk/ds/ds.html
+- "How to write shared libraries" http://www.akkadia.org/drepper/dsohowto.pdf
 
 #### Books
 1.  "Malware Forensics Field Guide for Linux Systems" by Cameron H. Malin, Eoghan Casey, James M. Aquilina
