@@ -65,6 +65,7 @@ Work in progress as I am actively collecting these.
 - "ELF Encrypter" http://elf-encrypter.sourceforge.net/
 - "An unofficial analysis of the Retaliation Virus (Authored by JPanic)" http://vxheaven.org/lib/vrn01.html or http://www.bitlackeys.org/papers/retaliation.txt
 - "LD_NOT_PRELOADED_FOR_REAL" http://haxelion.eu/article/LD_NOT_PRELOADED_FOR_REAL/
+- "midgetpack is a multiplatform secure ELF packer" https://github.com/arisada/midgetpack
 
 #### Kernel rootkits, LKMs & stuff
 
@@ -88,6 +89,13 @@ Work in progress as I am actively collecting these.
 - "(nearly) Complete Linux Loadable Kernel Modules" https://www.thc.org/papers/LKM_HACKING.html
 - "Check the README on this one" https://github.com/citypw/citypw-SCFE/tree/master/security/rootkit/hide_file
 - "UNIX and Linux based rootkits" http://www.kernelhacking.com/rodrigo/docs/StMichael/BuntenSlides.pdf
+- "Sample rootkit for linux" https://github.com/ivyl/rootkit/
+- "Linux Rootkit Scanner" https://github.com/dgoulet/kjackal
+- "Writing a LKM rootkit that uses LSM hooks" http://vladz.devzero.fr/015_lsm-backdoor.html
+- "TCP/UDP symmetric encryption tunnel wrapper" https://github.com/chokepoint/CryptHook
+- "Userland rootkit based off of the original LD_PRELOAD technique from Jynx rootkit" https://github.com/chokepoint/azazel
+- "an experimental linux kernel module (rootkit) with a keylogger and built-in IRC bot" https://github.com/bones-codes/the_colonel
+- "An LKM rootkit targeting Linux 2.6/3.x on x86(_64), and ARM" https://github.com/mncoppola/suterusu
 
 #### Other
 1. "Introduction to Reverse Engineering Software in Linux" http://ouah.org/RevEng/ 
@@ -109,6 +117,7 @@ Work in progress as I am actively collecting these.
 - "Shellcoding in Linux" https://www.exploit-db.com/docs/21013.pdf
 - "Linux Data Structures" http://tldp.org/LDP/tlk/ds/ds.html
 - "How to write shared libraries" http://www.akkadia.org/drepper/dsohowto.pdf
+- "Dumps the contents of a SysV shared memory segment" https://github.com/niklata/shmcat
 
 #### Books
 1.  "Malware Forensics Field Guide for Linux Systems" by Cameron H. Malin, Eoghan Casey, James M. Aquilina
