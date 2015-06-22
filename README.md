@@ -98,6 +98,8 @@ Work in progress as I am actively collecting these.
 - "An LKM rootkit targeting Linux 2.6/3.x on x86(_64), and ARM" https://github.com/mncoppola/suterusu
 - "Linux rootkit adapted for 2.6 and 3.x" https://github.com/trimpsyw/adore-ng
 - https://github.com/mfontanini/Programs-Scripts/blob/master/rootkit/rootkit.c
+- "Linux: Creating an entry in /proc file system (Part 1: The hello_proc pseudo file)" http://pointer-overloading.blogspot.in/2013/09/linux-creating-entry-in-proc-file.html
+- Answer to "Ripping out the hidden kernel module by reading kernel memory directly?" http://stackoverflow.com/a/18464599
 
 #### Other
 1. "Introduction to Reverse Engineering Software in Linux" http://ouah.org/RevEng/ 
@@ -120,6 +122,7 @@ Work in progress as I am actively collecting these.
 - "Linux Data Structures" http://tldp.org/LDP/tlk/ds/ds.html
 - "How to write shared libraries" http://www.akkadia.org/drepper/dsohowto.pdf
 - "Dumps the contents of a SysV shared memory segment" https://github.com/niklata/shmcat
+- "MoVP 1.5 KBeast Rootkit, Detecting Hidden Modules, and sysfs " http://volatility-labs.blogspot.sk/2012/09/movp-15-kbeast-rootkit-detecting-hidden.html
 
 #### Books
 1.  "Malware Forensics Field Guide for Linux Systems" by Cameron H. Malin, Eoghan Casey, James M. Aquilina
