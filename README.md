@@ -96,6 +96,8 @@ Work in progress as I am actively collecting these.
 - "Userland rootkit based off of the original LD_PRELOAD technique from Jynx rootkit" https://github.com/chokepoint/azazel
 - "an experimental linux kernel module (rootkit) with a keylogger and built-in IRC bot" https://github.com/bones-codes/the_colonel
 - "An LKM rootkit targeting Linux 2.6/3.x on x86(_64), and ARM" https://github.com/mncoppola/suterusu
+- "Linux rootkit adapted for 2.6 and 3.x" https://github.com/trimpsyw/adore-ng
+- https://github.com/mfontanini/Programs-Scripts/blob/master/rootkit/rootkit.c
 
 #### Other
 1. "Introduction to Reverse Engineering Software in Linux" http://ouah.org/RevEng/ 
