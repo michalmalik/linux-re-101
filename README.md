@@ -124,6 +124,10 @@ Work in progress as I am actively collecting these.
 - "Dumps the contents of a SysV shared memory segment" https://github.com/niklata/shmcat
 - "MoVP 1.5 KBeast Rootkit, Detecting Hidden Modules, and sysfs " http://volatility-labs.blogspot.sk/2012/09/movp-15-kbeast-rootkit-detecting-hidden.html
 - "ELF Eccentricities - Julian Bangert, Sergey Bratus" https://www.youtube.com/watch?v=4LU6N6THh2U
+- https://github.com/jbangert/mithril
+- https://github.com/bx/machO-tools - also contains some ELF stuff
+- "ELF vs. Mach-O" http://timetobleed.com/dynamic-linking-elf-vs-mach-o/
+- "ELF vs. Mach-O 2" http://timetobleed.com/dynamic-symbol-table-duel-elf-vs-mach-o-round-2/
 
 #### Books
 1.  "Malware Forensics Field Guide for Linux Systems" by Cameron H. Malin, Eoghan Casey, James M. Aquilina
