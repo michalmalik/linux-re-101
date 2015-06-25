@@ -6,6 +6,10 @@ Work in progress as I am actively collecting these.
 #### Keep these two handy:
 - "Executable and Linkable Format (ELF)" http://www.skyfree.org/linux/references/ELF_Format.pdf or http://www.muppetlabs.com/~breadbox/software/ELF.txt (I like .txt more)
 - "System V ABI x86-64 Linux" http://www.x86-64.org/documentation/abi.pdf
+
+#### Keep these somewhere in the closet:
+- "ELF for the ARM" http://infocenter.arm.com/help/topic/com.arm.doc.ihi0044e/IHI0044E_aaelf.pdf
+- "ELF for the ARM64" http://infocenter.arm.com/help/topic/com.arm.doc.ihi0056b/IHI0056B_aaelf64.pdf
     
 #### Basics
 
@@ -102,7 +106,8 @@ Work in progress as I am actively collecting these.
 - Answer to "Ripping out the hidden kernel module by reading kernel memory directly?" http://stackoverflow.com/a/18464599
 
 #### Other
-1. "Introduction to Reverse Engineering Software in Linux" http://ouah.org/RevEng/ 
+1. https://github.com/JonathanSalwan/binary-samples 
+- "Introduction to Reverse Engineering Software in Linux" http://ouah.org/RevEng/ 
 - "Intro to Radare2" http://rada.re/get/condret-r2talk.pdf
 - "100 GDB tips" https://github.com/hellogcc/100-gdb-tips/tree/master/src
 - https://github.com/citypw/citypw-SCFE/tree/master/security
