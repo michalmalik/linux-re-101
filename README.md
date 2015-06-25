@@ -106,7 +106,7 @@ Work in progress as I am actively collecting these.
 - Answer to "Ripping out the hidden kernel module by reading kernel memory directly?" http://stackoverflow.com/a/18464599
 
 #### Other
-1. https://github.com/JonathanSalwan/binary-samples 
+1. binary sample for testing, ABF, LKM samples etc. https://github.com/JonathanSalwan
 - "Introduction to Reverse Engineering Software in Linux" http://ouah.org/RevEng/ 
 - "Intro to Radare2" http://rada.re/get/condret-r2talk.pdf
 - "100 GDB tips" https://github.com/hellogcc/100-gdb-tips/tree/master/src
