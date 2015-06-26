@@ -133,6 +133,7 @@ Work in progress as I am actively collecting these.
 - https://github.com/bx/machO-tools - also contains some ELF stuff
 - "ELF vs. Mach-O" http://timetobleed.com/dynamic-linking-elf-vs-mach-o/
 - "ELF vs. Mach-O 2" http://timetobleed.com/dynamic-symbol-table-duel-elf-vs-mach-o-round-2/
+- "Measuring Linux at Runtime" http://www.unixist.com/security/measuring-linux-at-runtime/index.html coupled with https://github.com/unixist/camb
 
 #### Books
 1.  "Malware Forensics Field Guide for Linux Systems" by Cameron H. Malin, Eoghan Casey, James M. Aquilina
