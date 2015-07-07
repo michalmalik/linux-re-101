@@ -71,7 +71,6 @@ Work in progress as I am actively collecting these.
 - "LD_NOT_PRELOADED_FOR_REAL" http://haxelion.eu/article/LD_NOT_PRELOADED_FOR_REAL/
 - "midgetpack is a multiplatform secure ELF packer" https://github.com/arisada/midgetpack
 - "Linux x86 Reverse Engineering - Shellcode Disassembling and XOR decryption" https://www.exploit-db.com/docs/33429.pdf
-- 
 
 #### Kernel rootkits, LKMs & stuff
 
