@@ -70,6 +70,8 @@ Work in progress as I am actively collecting these.
 - "An unofficial analysis of the Retaliation Virus (Authored by JPanic)" http://vxheaven.org/lib/vrn01.html or http://www.bitlackeys.org/papers/retaliation.txt
 - "LD_NOT_PRELOADED_FOR_REAL" http://haxelion.eu/article/LD_NOT_PRELOADED_FOR_REAL/
 - "midgetpack is a multiplatform secure ELF packer" https://github.com/arisada/midgetpack
+- "Linux x86 Reverse Engineering - Shellcode Disassembling and XOR decryption" https://www.exploit-db.com/docs/33429.pdf
+- 
 
 #### Kernel rootkits, LKMs & stuff
 
@@ -136,6 +138,9 @@ Work in progress as I am actively collecting these.
 - "Measuring Linux at Runtime" http://www.unixist.com/security/measuring-linux-at-runtime/index.html coupled with https://github.com/unixist/camb
 - "Linux (x86) Exploit Development Series" https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/
 - http://0x90909090.blogspot.fr/2015/07/no-one-expect-command-execution.html
+- "Emulating Linux MIPS in Perl" http://schplog.schmorp.de/2015-06-08-emulating-linux-mips-in-perl-1.html
+- "Crypto 101" https://www.crypto101.io/
+- "REMnux 6" https://zeltser.com/remnux-v6-release-for-malware-analysis/
 
 #### Books
 1.  "Malware Forensics Field Guide for Linux Systems" by Cameron H. Malin, Eoghan Casey, James M. Aquilina
