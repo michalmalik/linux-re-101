@@ -110,6 +110,8 @@ Work in progress as I am actively collecting these.
 1. binary sample for testing, ABF, LKM samples etc. https://github.com/JonathanSalwan
 - "Introduction to Reverse Engineering Software in Linux" http://ouah.org/RevEng/ 
 - "Intro to Radare2" http://rada.re/get/condret-r2talk.pdf
+- "Radare2 baby steps" http://maijin.fr/slides.pdf
+- "Reverse engineering with Radare2, part 1" http://samsymons.com/blog/reverse-engineering-with-radare2-part-1/
 - "100 GDB tips" https://github.com/hellogcc/100-gdb-tips/tree/master/src
 - https://github.com/citypw/citypw-SCFE/tree/master/security
 - http://mammon.github.io/
@@ -141,6 +143,7 @@ Work in progress as I am actively collecting these.
 - "Crypto 101" https://www.crypto101.io/
 - "REMnux 6" https://zeltser.com/remnux-v6-release-for-malware-analysis/
 - "Practice and learning in the world of C RE and exploit analysis " https://github.com/211217613/C-Hacking
+
 
 #### Books
 1.  "Malware Forensics Field Guide for Linux Systems" by Cameron H. Malin, Eoghan Casey, James M. Aquilina
