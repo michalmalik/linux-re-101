@@ -48,26 +48,26 @@ Work in progress as I am actively collecting these.
 1. "UNIX VIRUSES" http://ouah.org/unix-viruses.txt
 - "Linux viruses - ELF file format" by Marius Van Oers http://www.mcafee.com/us/resources/white-papers/wp-linux-viruses-elf-file-format.pdf
 - "UNIX ELF PARASITES AND VIRUS" http://ouah.org/elf-pv.txt
-- "Abusing .CTORS and .DTORS for fun 'n profit" http://vxheaven.org/lib/viz00.html
+- "Abusing .CTORS and .DTORS for fun 'n profit" http://vxer.org/lib/viz00.html
 - "Cheating the ELF Subversive Dynamic Linking to Libraries" http://www.ouah.org/subversiveld.pdf
 - "Reverse of a coin: A short note on segment alignment" http://vxheavens.com/lib/vhe04.html
 - "The WIT virus" http://vanilla47.com/PDFs/Viruses In Linux PDFs/The WIT Virus.pdf
-- "Caveat virus" http://vxheaven.org/herm1t/caveat_en.html
-- "Infecting ELF-files using function padding for Linux" http://vxheaven.org/lib/vhe00.html
-- "INT 0x80? No, thank you! aka Pilot" http://vxheaven.org/herm1t/pilot_en.html
-- "From position-independent to self-relocatable viral code" http://vxheaven.org/lib/vhe08.html
-- Source code of infection techniques http://vxheaven.org/herm1t/examples.tar.gz by herm1t
+- "Caveat virus" http://vxer.org/herm1t/caveat_en.html
+- "Infecting ELF-files using function padding for Linux" http://vxer.org/lib/vhe00.html
+- "INT 0x80? No, thank you! aka Pilot" http://vxer.org/herm1t/pilot_en.html
+- "From position-independent to self-relocatable viral code" http://vxer.org/lib/vhe08.html
+- Source code of infection techniques http://vxer.org/herm1t/examples.tar.gz by herm1t
 - "Runtime binary encryption" http://phrack.org/issues/58/5.html
 - "Next-Gen Runtime Binary Encryption" http://phrack.org/issues/63/13.html
 - "Binary Protection Schemes" http://indra.linuxstudy.pe.kr/study/Binary%20Protection%20Schemes.pdf
 - "The Cerberus ELF interface" http://phrack.org/issues/61/8.html#article
 - "Malicious Code Injection via /dev/mem" http://www.blackhat.com/presentations/bh-europe-09/Lineberry/BlackHat-Europe-2009-Lineberry-code-injection-via-dev-mem.pdf
-- VX Heaven collection of viruses http://vxheaven.org/vl.php?dir=Virus.Linux
-- http://vxheaven.org/herm1t/ (Lacrimae is mind-bending)
+- VX Heaven collection of viruses http://vxer.org/vl.php?dir=Virus.Linux
+- http://vxer.org/herm1t/ (Lacrimae is mind-bending)
 - "Shiva - Advances in ELF Binary Encryption" https://www.blackhat.com/presentations/bh-usa-03/bh-us-03-mehta/bh-us-03-mehta.pdf
 - "Burneye protector" http://packetstormsecurity.com/files/30648/burneye-1.0.1-src.tar.bz2.html
 - "ELF Encrypter" http://elf-encrypter.sourceforge.net/
-- "An unofficial analysis of the Retaliation Virus (Authored by JPanic)" http://vxheaven.org/lib/vrn01.html or http://www.bitlackeys.org/papers/retaliation.txt
+- "An unofficial analysis of the Retaliation Virus (Authored by JPanic)" http://vxer.org/lib/vrn01.html or http://www.bitlackeys.org/papers/retaliation.txt
 - "LD_NOT_PRELOADED_FOR_REAL" http://haxelion.eu/article/LD_NOT_PRELOADED_FOR_REAL/
 - "midgetpack is a multiplatform secure ELF packer" https://github.com/arisada/midgetpack
 - "Linux x86 Reverse Engineering - Shellcode Disassembling and XOR decryption" https://www.exploit-db.com/docs/33429.pdf
@@ -107,7 +107,8 @@ Work in progress as I am actively collecting these.
 - Answer to "Ripping out the hidden kernel module by reading kernel memory directly?" http://stackoverflow.com/a/18464599
 
 #### Other
-1. binary sample for testing, ABF, LKM samples etc. https://github.com/JonathanSalwan
+1. "ElfParser blog" http://www.blog.elfparser.com/ 
+- binary sample for testing, ABF, LKM samples etc. https://github.com/JonathanSalwan
 - "Introduction to Reverse Engineering Software in Linux" http://ouah.org/RevEng/ 
 - "Intro to Radare2" http://rada.re/get/condret-r2talk.pdf
 - "Radare2 baby steps" http://maijin.fr/slides.pdf
@@ -143,7 +144,6 @@ Work in progress as I am actively collecting these.
 - "Crypto 101" https://www.crypto101.io/
 - "REMnux 6" https://zeltser.com/remnux-v6-release-for-malware-analysis/
 - "Practice and learning in the world of C RE and exploit analysis " https://github.com/211217613/C-Hacking
-
 
 #### Books
 1.  "Malware Forensics Field Guide for Linux Systems" by Cameron H. Malin, Eoghan Casey, James M. Aquilina
