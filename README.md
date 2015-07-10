@@ -113,12 +113,13 @@ Work in progress as I am actively collecting these.
 - "Intro to Radare2" http://rada.re/get/condret-r2talk.pdf
 - "Radare2 baby steps" http://maijin.fr/slides.pdf
 - "Reverse engineering with Radare2, part 1" http://samsymons.com/blog/reverse-engineering-with-radare2-part-1/
+- "GCC protections" http://www.sawbox.net/s0t/txt/ssp.html
 - "100 GDB tips" https://github.com/hellogcc/100-gdb-tips/tree/master/src
 - https://github.com/citypw/citypw-SCFE/tree/master/security
 - http://mammon.github.io/
 - https://code.google.com/p/corkami/downloads/list & https://code.google.com/p/corkami/source/browse/#svn/trunk/wip/elf
 - "Kickers of ELF" http://www.muppetlabs.com/~breadbox/software/elfkickers.html
-- http://www.bitlackeys.orgp
+- http://www.bitlackeys.org
 - "How to detect virtualization on Linux" http://www.dmo.ca/blog/detecting-virtualization-on-linux/
 - "Mechanisms to determine VMWare VM" http://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=1009458
 - "Analysis of an unknown binary, for the HoneyNet Reverse Challenge" http://old.honeynet.org/reverse/results/sol/sol-06/analysis.html
