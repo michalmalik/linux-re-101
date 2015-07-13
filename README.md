@@ -3,11 +3,11 @@ linux-re-101
 
 Work in progress as I am actively collecting these.
 
-#### Keep these two handy:
+#### Keep these handy
 - "Executable and Linkable Format (ELF)" http://www.skyfree.org/linux/references/ELF_Format.pdf or http://www.muppetlabs.com/~breadbox/software/ELF.txt (I like .txt more)
 - "System V ABI x86-64 Linux" http://www.x86-64.org/documentation/abi.pdf
 
-#### Keep these somewhere in the closet:
+#### Keep these somewhere in the closet
 - "ELF for the ARM" http://infocenter.arm.com/help/topic/com.arm.doc.ihi0044e/IHI0044E_aaelf.pdf
 - "ELF for the ARM64" http://infocenter.arm.com/help/topic/com.arm.doc.ihi0056b/IHI0056B_aaelf64.pdf
     
@@ -36,16 +36,16 @@ Work in progress as I am actively collecting these.
 - "Load-time relocation of shared libraries " http://eli.thegreenplace.net/2011/08/25/load-time-relocation-of-shared-libraries
 - "Position Independent Code (PIC) in shared libraries " http://eli.thegreenplace.net/2011/11/03/position-independent-code-pic-in-shared-libraries/
 - "Position Independent Code (PIC) in shared libraries x64" http://eli.thegreenplace.net/2011/11/11/position-independent-code-pic-in-shared-libraries-on-x64/
-- "LINUX ANTI-DEBUGGING TECHNIQUES (FOOLING THE DEBUGGER)" http://www.ouah.org/linux-anti-debugging.txt
-- "ptrace() tutorial" http://mikecvet.wordpress.com/2010/08/14/ptrace-tutorial/
-- "ptrace() on 64-bit system" http://theantway.com/2013/01/notes-for-playing-with-ptrace-on-64-bits-ubuntu-12-10/
-- "Linux x86 run-time process manipulation" http://hick.org/code/skape/papers/needle.txt
 - "Linux on the Half-ELF" http://mammon.github.io/tales/linux_re.txt
 - "Linkers - 20 parts" http://www.airs.com/blog/page/4?s=linkers
 
-#### Infection techniques, viruses, obfuscation and encryption
+#### Anti-debugging, infection techniques, viruses, obfuscation and encryption
 
-1. "UNIX VIRUSES" http://ouah.org/unix-viruses.txt
+1. "LINUX ANTI-DEBUGGING TECHNIQUES (FOOLING THE DEBUGGER)" http://www.ouah.org/linux-anti-debugging.txt
+- "ptrace() tutorial" http://mikecvet.wordpress.com/2010/08/14/ptrace-tutorial/
+- "ptrace() on 64-bit system" http://theantway.com/2013/01/notes-for-playing-with-ptrace-on-64-bits-ubuntu-12-10/
+- "Linux x86 run-time process manipulation" http://hick.org/code/skape/papers/needle.txt
+- "UNIX VIRUSES" http://ouah.org/unix-viruses.txt
 - "Linux viruses - ELF file format" by Marius Van Oers http://www.mcafee.com/us/resources/white-papers/wp-linux-viruses-elf-file-format.pdf
 - "UNIX ELF PARASITES AND VIRUS" http://ouah.org/elf-pv.txt
 - "Abusing .CTORS and .DTORS for fun 'n profit" http://vxer.org/lib/viz00.html
@@ -113,7 +113,7 @@ Work in progress as I am actively collecting these.
 - "Intro to Radare2" http://rada.re/get/condret-r2talk.pdf
 - "Radare2 baby steps" http://maijin.fr/slides.pdf
 - "Reverse engineering with Radare2, part 1" http://samsymons.com/blog/reverse-engineering-with-radare2-part-1/
-- "Defeating IOLI with Radare2" http://reverland.org/exploit/2014/08/08/defeating-ioli-with-radare2/
+- "Defeating IOLI with Radare2" http://reverland.org/exploit/2014/08/08/defeating-ioli-with-radare2/ (crackme)
 - "GCC protections" http://www.sawbox.net/s0t/txt/ssp.html
 - "100 GDB tips" https://github.com/hellogcc/100-gdb-tips/tree/master/src
 - https://github.com/citypw/citypw-SCFE/tree/master/security
