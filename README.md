@@ -10,12 +10,13 @@ Work in progress as I am actively collecting these.
 #### Keep these somewhere in the closet
 - "ELF for the ARM" http://infocenter.arm.com/help/topic/com.arm.doc.ihi0044e/IHI0044E_aaelf.pdf
 - "ELF for the ARM64" http://infocenter.arm.com/help/topic/com.arm.doc.ihi0056b/IHI0056B_aaelf64.pdf
-    
+- "How to write shared libraries" by Ulrich Drepper http://www.akkadia.org/drepper/dsohowto.pdf    
+
 #### Basics
 
-1. Optional: "Gentle Introduction to x86-64 Assembly" http://www.x86-64.org/documentation/assembly.html 
-- Optional: "Code as Art: Assembly x86_64 programming for Linux" http://0xax.blogspot.sk/p/assembly-x8664-programming-for-linux.html
-- Optional: "Guide to x86 assembly" http://www.cs.virginia.edu/~evans/cs216/guides/x86.html
+1. *Optional*: "Gentle Introduction to x86-64 Assembly" http://www.x86-64.org/documentation/assembly.html 
+- *Optional*: "Guide to x86 assembly" http://www.cs.virginia.edu/~evans/cs216/guides/x86.html
+- *Optional*: "Assembly x86_64 programming for Linux" http://0xax.blogspot.sk/p/assembly-x8664-programming-for-linux.html
 - "The dissection of a simple hello world ELF file" https://github.com/mewrev/dissection and "ELF101" http://imgur.com/a/JEObT
 - "A Whirlwind Tutorial on Creating Really Teensy ELF Executables for Linux" http://www.muppetlabs.com/~breadbox/software/tiny/teensy.html
 - "Startup state of a Linux/i386 ELF binary" http://asm.sourceforge.net/articles/startup.html and http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html
@@ -38,8 +39,9 @@ Work in progress as I am actively collecting these.
 - "Position Independent Code (PIC) in shared libraries x64" http://eli.thegreenplace.net/2011/11/11/position-independent-code-pic-in-shared-libraries-on-x64/
 - "Linux on the Half-ELF" http://mammon.github.io/tales/linux_re.txt
 - "Linkers - 20 parts" http://www.airs.com/blog/page/4?s=linkers
+- "Quickly determine the capabilities of an ELF binary through static analysis" http://elfparser.com/
 
-#### Anti-debugging, infection techniques, viruses, obfuscation and encryption
+#### Anti-debugging, infection techniques, viruses, obfuscation, encryption, shellcode and exploits
 
 1. "LINUX ANTI-DEBUGGING TECHNIQUES (FOOLING THE DEBUGGER)" http://www.ouah.org/linux-anti-debugging.txt
 - "ptrace() tutorial" http://mikecvet.wordpress.com/2010/08/14/ptrace-tutorial/
@@ -71,14 +73,19 @@ Work in progress as I am actively collecting these.
 - "LD_NOT_PRELOADED_FOR_REAL" http://haxelion.eu/article/LD_NOT_PRELOADED_FOR_REAL/
 - "midgetpack is a multiplatform secure ELF packer" https://github.com/arisada/midgetpack
 - "Linux x86 Reverse Engineering - Shellcode Disassembling and XOR decryption" https://www.exploit-db.com/docs/33429.pdf
+- "Shellcoding in Linux" https://www.exploit-db.com/docs/21013.pdf
+- "Linux (x86) Exploit Development Series" https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/
+- "Linux 64-bit Return Oriented Programming" https://crypto.stanford.edu/~blynn/rop/
+- http://www.bitlackeys.org
+- "Kickers of ELF" http://www.muppetlabs.com/~breadbox/software/elfkickers.html
 
 #### Kernel rootkits, LKMs & stuff
 
-1. "A series of posts about the linux kernel and its insides." http://0xax.gitbooks.io/linux-insides/content/index.html
+1. *Optional*: "A series of posts about the linux kernel and its insides."
+- *Optional*: "Kernel hacking HOWTO" http://kernelnewbies.org/New_Kernel_Hacking_HOWTOhttp://0xax.gitbooks.io/linux-insides/content/index.html
 - "Anatomy of the Linux kernel" http://www.ibm.com/developerworks/linux/library/l-linux-kernel/index.html
 - "Linux process management" http://www.ibm.com/developerworks/linux/library/l-linux-process-management/index.html
 - "Linux processes" http://www.cs.columbia.edu/~junfeng/10sp-w4118/lectures/l07-proc-linux.pdf
-- "Kernel hacking HOWTO" http://kernelnewbies.org/New_Kernel_Hacking_HOWTO
 - "Kernel hacking" http://info.fs.tum.de/images/2/21/2011-01-19-kernel-hacking.pdf
 - "Be a kernel hacker" http://www.linuxvoice.com/be-a-kernel-hacker/?pk_campaign=hn&pk_kwd=3
 - "Day 5: I wrote a kernel module" http://jvns.ca/blog/2013/10/07/day-5-i-wrote-a-kernel-module/
@@ -92,7 +99,7 @@ Work in progress as I am actively collecting these.
 - "Kernel instrumentation using kprobes" http://phrack.org/issues.html?issue=67&id=6#article
 - "Infecting loadable kernel modules versions 2.6.x/3.0.x" http://phrack.org/issues/68/11.html#article
 - "(nearly) Complete Linux Loadable Kernel Modules" https://www.thc.org/papers/LKM_HACKING.html
-- "Check the README on this one" https://github.com/citypw/citypw-SCFE/tree/master/security/rootkit/hide_file
+- Check the README for more https://github.com/citypw/citypw-SCFE/tree/master/security/rootkit/hide_file
 - "UNIX and Linux based rootkits" http://www.kernelhacking.com/rodrigo/docs/StMichael/BuntenSlides.pdf
 - "Sample rootkit for linux" https://github.com/ivyl/rootkit/
 - "Linux Rootkit Scanner" https://github.com/dgoulet/kjackal
@@ -105,46 +112,47 @@ Work in progress as I am actively collecting these.
 - https://github.com/mfontanini/Programs-Scripts/blob/master/rootkit/rootkit.c
 - "Linux: Creating an entry in /proc file system (Part 1: The hello_proc pseudo file)" http://pointer-overloading.blogspot.in/2013/09/linux-creating-entry-in-proc-file.html
 - Answer to "Ripping out the hidden kernel module by reading kernel memory directly?" http://stackoverflow.com/a/18464599
+- "MoVP 1.5 KBeast Rootkit, Detecting Hidden Modules, and sysfs " http://volatility-labs.blogspot.sk/2012/09/movp-15-kbeast-rootkit-detecting-hidden.html
+- "tool to locally check for signs of a rootkit" http://www.chkrootkit.org/
+- "a Unix-based tool that scans for rootkits, backdoors and possible local exploits" http://rkhunter.sourceforge.net/
 
-### Crackmes
+#### Crackmes and challenges
 
 1. "Exercises for learning Reverse Engineering and Exploitation." https://github.com/wapiflapi/exrs
 - "IOLI crackme" http://dustri.org/b/files/IOLI-crackme.tar.gz
+- http://security.cs.rpi.edu/courses/binexp-spring2015/lectures/2/challenges.zip from "Modern Binary Exploitation"
+
+#### Analyzes & "hands-on"
+
+1. "Reverse engineering with Radare2, part 1" http://samsymons.com/blog/reverse-engineering-with-radare2-part-1/
+- "Defeating IOLI with Radare2" http://dustri.org/b/defeating-ioli-with-radare2.html
+- "Analysis of an unknown binary, for the HoneyNet Reverse Challenge" http://old.honeynet.org/reverse/results/sol/sol-06/analysis.html
 
 #### Other
 1. "ElfParser blog" http://www.blog.elfparser.com/ 
-- binary sample for testing, ABF, LKM samples etc. https://github.com/JonathanSalwan
+- binary samples for testing https://github.com/JonathanSalwan
 - "Introduction to Reverse Engineering Software in Linux" http://ouah.org/RevEng/ 
 - "Intro to Radare2" http://rada.re/get/condret-r2talk.pdf
 - "Radare2 baby steps" http://maijin.fr/slides.pdf
-- "Reverse engineering with Radare2, part 1" http://samsymons.com/blog/reverse-engineering-with-radare2-part-1/
-- "Defeating IOLI with Radare2" http://dustri.org/b/defeating-ioli-with-radare2.html
+- "Modern Binary Exploitation" http://security.cs.rpi.edu/courses/binexp-spring2015/
 - "GCC protections" http://www.sawbox.net/s0t/txt/ssp.html
 - "100 GDB tips" https://github.com/hellogcc/100-gdb-tips/tree/master/src
 - https://github.com/citypw/citypw-SCFE/tree/master/security
 - http://mammon.github.io/
 - https://code.google.com/p/corkami/downloads/list & https://code.google.com/p/corkami/source/browse/#svn/trunk/wip/elf
-- "Kickers of ELF" http://www.muppetlabs.com/~breadbox/software/elfkickers.html
-- http://www.bitlackeys.org
 - "How to detect virtualization on Linux" http://www.dmo.ca/blog/detecting-virtualization-on-linux/
 - "Mechanisms to determine VMWare VM" http://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=1009458
-- "Analysis of an unknown binary, for the HoneyNet Reverse Challenge" http://old.honeynet.org/reverse/results/sol/sol-06/analysis.html
 - "Hacking the wholism of GNU/Linux net*" http://kernelnewbies.org/Networking?action=AttachFile&do=get&target=hacking_the_wholism_of_linux_net.txt
 - "Linux Device Drivers" https://lwn.net/Kernel/LDD3/
 - "Toolkit to detect/crash/attack GNU debugging tools" https://github.com/jvoisin/pangu
 - "ld-linux code injector" https://github.com/sduverger/ld-shatner
-- "Linux 64-bit Return Oriented Programming" https://crypto.stanford.edu/~blynn/rop/
-- "Shellcoding in Linux" https://www.exploit-db.com/docs/21013.pdf
 - "Linux Data Structures" http://tldp.org/LDP/tlk/ds/ds.html
-- "How to write shared libraries" http://www.akkadia.org/drepper/dsohowto.pdf
 - "Dumps the contents of a SysV shared memory segment" https://github.com/niklata/shmcat
-- "MoVP 1.5 KBeast Rootkit, Detecting Hidden Modules, and sysfs " http://volatility-labs.blogspot.sk/2012/09/movp-15-kbeast-rootkit-detecting-hidden.html
 - "ELF Eccentricities - Julian Bangert, Sergey Bratus" https://www.youtube.com/watch?v=4LU6N6THh2U
 - https://github.com/jbangert/mithril
 - "ELF vs. Mach-O" http://timetobleed.com/dynamic-linking-elf-vs-mach-o/
 - "ELF vs. Mach-O 2" http://timetobleed.com/dynamic-symbol-table-duel-elf-vs-mach-o-round-2/
 - "Measuring Linux at Runtime" http://www.unixist.com/security/measuring-linux-at-runtime/index.html coupled with https://github.com/unixist/camb
-- "Linux (x86) Exploit Development Series" https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/
 - http://0x90909090.blogspot.fr/2015/07/no-one-expect-command-execution.html
 - "Emulating Linux MIPS in Perl" http://schplog.schmorp.de/2015-06-08-emulating-linux-mips-in-perl-1.html
 - "Crypto 101" https://www.crypto101.io/
