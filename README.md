@@ -158,6 +158,8 @@ Work in progress as I am actively collecting these.
 - "Crypto 101" https://www.crypto101.io/
 - "REMnux 6" https://zeltser.com/remnux-v6-release-for-malware-analysis/
 - "Practice and learning in the world of C RE and exploit analysis " https://github.com/211217613/C-Hacking
+- http://io.smashthestack.org/
+- http://overthewire.org/wargames/bandit/
 
 #### Books
 1.  "Malware Forensics Field Guide for Linux Systems" by Cameron H. Malin, Eoghan Casey, James M. Aquilina
