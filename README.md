@@ -162,7 +162,8 @@ Work in progress as I am actively collecting these.
 - http://overthewire.org/wargames/bandit/
 
 #### Books
-1.  "Malware Forensics Field Guide for Linux Systems" by Cameron H. Malin, Eoghan Casey, James M. Aquilina
+1. "Malware Forensics Field Guide for Linux Systems" by Cameron H. Malin, Eoghan Casey, James M. Aquilina
 - "Linux (Bezpečnosť a exploity)" by Miroslav Dobšíček and Radim Ballner
 - "Hacking: The Art of Exploitation" by Jon Erickson
+- "The Shellcoder's Handbook: Discovering and Exploiting Security Holes" by Chris Anley, John Heasman, Felix Lindner
 - "The Linux Programming Interface" by Michael Kerrisk
