@@ -106,6 +106,11 @@ Work in progress as I am actively collecting these.
 - "Linux: Creating an entry in /proc file system (Part 1: The hello_proc pseudo file)" http://pointer-overloading.blogspot.in/2013/09/linux-creating-entry-in-proc-file.html
 - Answer to "Ripping out the hidden kernel module by reading kernel memory directly?" http://stackoverflow.com/a/18464599
 
+### Crackmes
+
+1. "Exercises for learning Reverse Engineering and Exploitation." https://github.com/wapiflapi/exrs
+- "IOLI crackme" http://dustri.org/b/files/IOLI-crackme.tar.gz
+
 #### Other
 1. "ElfParser blog" http://www.blog.elfparser.com/ 
 - binary sample for testing, ABF, LKM samples etc. https://github.com/JonathanSalwan
@@ -113,7 +118,7 @@ Work in progress as I am actively collecting these.
 - "Intro to Radare2" http://rada.re/get/condret-r2talk.pdf
 - "Radare2 baby steps" http://maijin.fr/slides.pdf
 - "Reverse engineering with Radare2, part 1" http://samsymons.com/blog/reverse-engineering-with-radare2-part-1/
-- "Defeating IOLI with Radare2" http://reverland.org/exploit/2014/08/08/defeating-ioli-with-radare2/ (crackme)
+- "Defeating IOLI with Radare2" http://dustri.org/b/defeating-ioli-with-radare2.html
 - "GCC protections" http://www.sawbox.net/s0t/txt/ssp.html
 - "100 GDB tips" https://github.com/hellogcc/100-gdb-tips/tree/master/src
 - https://github.com/citypw/citypw-SCFE/tree/master/security
@@ -136,7 +141,6 @@ Work in progress as I am actively collecting these.
 - "MoVP 1.5 KBeast Rootkit, Detecting Hidden Modules, and sysfs " http://volatility-labs.blogspot.sk/2012/09/movp-15-kbeast-rootkit-detecting-hidden.html
 - "ELF Eccentricities - Julian Bangert, Sergey Bratus" https://www.youtube.com/watch?v=4LU6N6THh2U
 - https://github.com/jbangert/mithril
-- https://github.com/bx/machO-tools - also contains some ELF stuff
 - "ELF vs. Mach-O" http://timetobleed.com/dynamic-linking-elf-vs-mach-o/
 - "ELF vs. Mach-O 2" http://timetobleed.com/dynamic-symbol-table-duel-elf-vs-mach-o-round-2/
 - "Measuring Linux at Runtime" http://www.unixist.com/security/measuring-linux-at-runtime/index.html coupled with https://github.com/unixist/camb
