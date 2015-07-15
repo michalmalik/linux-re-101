@@ -18,6 +18,7 @@ Work in progress as I am actively collecting these.
 - *Optional*: "Guide to x86 assembly" http://www.cs.virginia.edu/~evans/cs216/guides/x86.html
 - *Optional*: "Assembly x86_64 programming for Linux" http://0xax.blogspot.sk/p/assembly-x8664-programming-for-linux.html
 - "The dissection of a simple hello world ELF file" https://github.com/mewrev/dissection and "ELF101" http://imgur.com/a/JEObT
+- https://www.cs.stevens.edu/~jschauma/631/elf.html
 - "A Whirlwind Tutorial on Creating Really Teensy ELF Executables for Linux" http://www.muppetlabs.com/~breadbox/software/tiny/teensy.html
 - "Startup state of a Linux/i386 ELF binary" http://asm.sourceforge.net/articles/startup.html and http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html
 - "Stack frame layout on x86-64" http://eli.thegreenplace.net/2011/09/06/stack-frame-layout-on-x86-64
@@ -160,6 +161,7 @@ Work in progress as I am actively collecting these.
 - "Practice and learning in the world of C RE and exploit analysis " https://github.com/211217613/C-Hacking
 - http://io.smashthestack.org/
 - http://overthewire.org/wargames/bandit/
+- https://people.debian.org/~aurel32/qemu/
 
 #### Books
 1. "Malware Forensics Field Guide for Linux Systems" by Cameron H. Malin, Eoghan Casey, James M. Aquilina
