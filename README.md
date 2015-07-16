@@ -128,6 +128,7 @@ Work in progress as I am actively collecting these.
 
 1. "Reverse engineering with Radare2, part 1" http://samsymons.com/blog/reverse-engineering-with-radare2-part-1/
 - "Defeating IOLI with Radare2" http://dustri.org/b/defeating-ioli-with-radare2.html
+- "Using radare2 to pwn things" http://radare.today/using-radare2/
 - "Analysis of an unknown binary, for the HoneyNet Reverse Challenge" http://old.honeynet.org/reverse/results/sol/sol-06/analysis.html
 
 #### Other
