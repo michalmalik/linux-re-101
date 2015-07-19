@@ -129,6 +129,9 @@ Work in progress as I am actively collecting these.
 1. "Reverse engineering with Radare2, part 1" http://samsymons.com/blog/reverse-engineering-with-radare2-part-1/
 - "Defeating IOLI with Radare2" http://dustri.org/b/defeating-ioli-with-radare2.html
 - "Using radare2 to pwn things" http://radare.today/using-radare2/
+- "Pwning With Radare2" http://crowell.github.io/blog/2014/11/23/pwning-with-radare2/
+- "At Gunpoint Hacklu 2014 With Radare2" http://crowell.github.io/blog/2014/11/23/at-gunpoint-hacklu-2014-with-radare2/
+- "manual binary mangling with radare" http://phrack.org/issues/66/14.html#article
 - "Analysis of an unknown binary, for the HoneyNet Reverse Challenge" http://old.honeynet.org/reverse/results/sol/sol-06/analysis.html
 
 #### Other
