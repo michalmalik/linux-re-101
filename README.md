@@ -8,6 +8,7 @@ Work in progress as I am actively collecting these.
 - "System V ABI x86-64 Linux" http://www.x86-64.org/documentation/abi.pdf
 
 #### Keep these somewhere in the closet
+- "MIPS documentation" http://www.linux-mips.org/pub/linux/mips/doc/ABI/
 - "ELF for the ARM" http://infocenter.arm.com/help/topic/com.arm.doc.ihi0044e/IHI0044E_aaelf.pdf
 - "ELF for the ARM64" http://infocenter.arm.com/help/topic/com.arm.doc.ihi0056b/IHI0056B_aaelf64.pdf
 - "How to write shared libraries" by Ulrich Drepper http://www.akkadia.org/drepper/dsohowto.pdf    
