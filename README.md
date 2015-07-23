@@ -58,6 +58,7 @@ Work in progress as I am actively collecting these.
 - "The WIT virus" http://vanilla47.com/PDFs/Viruses In Linux PDFs/The WIT Virus.pdf
 - "Caveat virus" http://vxer.org/herm1t/caveat_en.html
 - "Infecting ELF-files using function padding for Linux" http://vxer.org/lib/vhe00.html
+- "Injected Evil (executable files infection)" http://vxheaven.org/lib/vzo08.html
 - "INT 0x80? No, thank you! aka Pilot" http://vxer.org/herm1t/pilot_en.html
 - "From position-independent to self-relocatable viral code" http://vxer.org/lib/vhe08.html
 - Source code of infection techniques http://vxer.org/herm1t/examples.tar.gz by herm1t
