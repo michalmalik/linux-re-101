@@ -139,6 +139,7 @@ Work in progress as I am actively collecting these.
 #### Other
 1. "ElfParser blog" http://www.blog.elfparser.com/ 
 - binary samples for testing https://github.com/JonathanSalwan
+- "Building a concrete alternative to IDA - Radare2 to the rescue!" https://recon.cx/2015/slides/recon2015-04-jeffrey-crowell-julien-voisin-Radare2-building-a-new-IDA.pdf
 - "Introduction to Reverse Engineering Software in Linux" http://ouah.org/RevEng/ 
 - "Intro to Radare2" http://rada.re/get/condret-r2talk.pdf
 - "Radare2 baby steps" http://maijin.fr/slides.pdf
