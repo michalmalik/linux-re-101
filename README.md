@@ -84,8 +84,8 @@ Work in progress as I am actively collecting these.
 
 #### Kernel rootkits, LKMs & stuff
 
-1. *Optional*: "A series of posts about the linux kernel and its insides."
-- *Optional*: "Kernel hacking HOWTO" http://kernelnewbies.org/New_Kernel_Hacking_HOWTOhttp://0xax.gitbooks.io/linux-insides/content/index.html
+1. *Optional*: "A series of posts about the linux kernel and its insides." http://0xax.gitbooks.io/linux-insides/content/index.html
+- *Optional*: "Kernel hacking HOWTO" http://kernelnewbies.org/New_Kernel_Hacking_HOWTO
 - "Anatomy of the Linux kernel" http://www.ibm.com/developerworks/linux/library/l-linux-kernel/index.html
 - "Linux process management" http://www.ibm.com/developerworks/linux/library/l-linux-process-management/index.html
 - "Linux processes" http://www.cs.columbia.edu/~junfeng/10sp-w4118/lectures/l07-proc-linux.pdf
