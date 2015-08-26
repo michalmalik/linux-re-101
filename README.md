@@ -141,6 +141,7 @@ Work in progress as I am actively collecting these.
 - binary samples for testing https://github.com/JonathanSalwan
 - "Building a concrete alternative to IDA - Radare2 to the rescue!" https://recon.cx/2015/slides/recon2015-04-jeffrey-crowell-julien-voisin-Radare2-building-a-new-IDA.pdf
 - "Introduction to Reverse Engineering Software in Linux" http://ouah.org/RevEng/ 
+- "Radare2 book" http://radare.gitbooks.io/radare2book/content/
 - "Intro to Radare2" http://rada.re/get/condret-r2talk.pdf
 - "Radare2 baby steps" http://maijin.fr/slides.pdf
 - "Modern Binary Exploitation" http://security.cs.rpi.edu/courses/binexp-spring2015/
@@ -170,6 +171,7 @@ Work in progress as I am actively collecting these.
 - http://io.smashthestack.org/
 - http://overthewire.org/wargames/bandit/
 - https://people.debian.org/~aurel32/qemu/
+- "Fuzzing the ELF file format with Melkor" https://www.blackhat.com/docs/us-14/materials/arsenal/us-14-Hernandez-Melkor-Slides.pdf
 
 #### Books
 1. "Malware Forensics Field Guide for Linux Systems" by Cameron H. Malin, Eoghan Casey, James M. Aquilina
