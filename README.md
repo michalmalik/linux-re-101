@@ -3,21 +3,24 @@ linux-re-101
 
 Work in progress as I am actively collecting these.
 
+#### TODO
+- Create architecture categories (x86, mips, arm, ..)
+
 #### Keep these handy
 - "Executable and Linkable Format (ELF)" http://www.skyfree.org/linux/references/ELF_Format.pdf or http://www.muppetlabs.com/~breadbox/software/ELF.txt (I like .txt more)
 - "System V ABI x86-64 Linux" http://www.x86-64.org/documentation/abi.pdf
-
-#### Keep these somewhere in the closet
 - "MIPS documentation" http://www.linux-mips.org/pub/linux/mips/doc/ABI/
 - "ELF for the ARM" http://infocenter.arm.com/help/topic/com.arm.doc.ihi0044e/IHI0044E_aaelf.pdf
 - "ELF for the ARM64" http://infocenter.arm.com/help/topic/com.arm.doc.ihi0056b/IHI0056B_aaelf64.pdf
 - "How to write shared libraries" by Ulrich Drepper http://www.akkadia.org/drepper/dsohowto.pdf    
+- "Linux Cross Reference" http://lxr.free-electrons.com/
 
 #### Basics
 
 1. *Optional*: "Gentle Introduction to x86-64 Assembly" http://www.x86-64.org/documentation/assembly.html 
 - *Optional*: "Guide to x86 assembly" http://www.cs.virginia.edu/~evans/cs216/guides/x86.html
 - *Optional*: "Assembly x86_64 programming for Linux" http://0xax.blogspot.sk/p/assembly-x8664-programming-for-linux.html
+- *Optional*: "Step by step to MIPS assembly" http://winfred-lu.blogspot.sk/2010/06/step-by-step-to-mips-assembly.html
 - "The dissection of a simple hello world ELF file" https://github.com/mewrev/dissection and "ELF101" http://imgur.com/a/JEObT
 - https://www.cs.stevens.edu/~jschauma/631/elf.html
 - "A Whirlwind Tutorial on Creating Really Teensy ELF Executables for Linux" http://www.muppetlabs.com/~breadbox/software/tiny/teensy.html
@@ -168,8 +171,6 @@ Work in progress as I am actively collecting these.
 - "Crypto 101" https://www.crypto101.io/
 - "REMnux 6" https://zeltser.com/remnux-v6-release-for-malware-analysis/
 - "Practice and learning in the world of C RE and exploit analysis " https://github.com/211217613/C-Hacking
-- http://io.smashthestack.org/
-- http://overthewire.org/wargames/bandit/
 - https://people.debian.org/~aurel32/qemu/
 - "Fuzzing the ELF file format with Melkor" https://www.blackhat.com/docs/us-14/materials/arsenal/us-14-Hernandez-Melkor-Slides.pdf
 
