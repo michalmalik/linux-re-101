@@ -23,6 +23,7 @@ Work in progress as I am actively collecting these.
 - *Optional*: "Step by step to MIPS assembly" http://winfred-lu.blogspot.sk/2010/06/step-by-step-to-mips-assembly.html
 - "The dissection of a simple hello world ELF file" https://github.com/mewrev/dissection and "ELF101" http://imgur.com/a/JEObT
 - https://www.cs.stevens.edu/~jschauma/631/elf.html
+- "The 101 of ELF Binaries on Linux: Understanding and Analysis" http://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/
 - "A Whirlwind Tutorial on Creating Really Teensy ELF Executables for Linux" http://www.muppetlabs.com/~breadbox/software/tiny/teensy.html
 - "Startup state of a Linux/i386 ELF binary" http://asm.sourceforge.net/articles/startup.html and http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html
 - "Stack frame layout on x86-64" http://eli.thegreenplace.net/2011/09/06/stack-frame-layout-on-x86-64
