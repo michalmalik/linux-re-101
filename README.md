@@ -14,6 +14,7 @@ Work in progress as I am actively collecting these.
 - "ELF for the ARM64" http://infocenter.arm.com/help/topic/com.arm.doc.ihi0056b/IHI0056B_aaelf64.pdf
 - "How to write shared libraries" by Ulrich Drepper http://www.akkadia.org/drepper/dsohowto.pdf    
 - "Linux Cross Reference" http://lxr.free-electrons.com/
+- "Syscall table reference" https://w3challs.com/syscalls/
 
 #### Basics
 
