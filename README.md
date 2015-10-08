@@ -149,6 +149,7 @@ Work in progress as I am actively collecting these.
 - "Radare2 book" http://radare.gitbooks.io/radare2book/content/
 - "Intro to Radare2" http://rada.re/get/condret-r2talk.pdf
 - "Radare2 baby steps" http://maijin.fr/slides.pdf
+- "Radare A to Z" http://radare.org/get/RadareAZ-NN2015.pdf
 - "Modern Binary Exploitation" http://security.cs.rpi.edu/courses/binexp-spring2015/
 - "GCC protections" http://www.sawbox.net/s0t/txt/ssp.html
 - "100 GDB tips" https://github.com/hellogcc/100-gdb-tips/tree/master/src
