@@ -21,7 +21,9 @@ Work in progress as I am actively collecting these.
 1. *Optional*: "Gentle Introduction to x86-64 Assembly" http://www.x86-64.org/documentation/assembly.html 
 - *Optional*: "Guide to x86 assembly" http://www.cs.virginia.edu/~evans/cs216/guides/x86.html
 - *Optional*: "Assembly x86_64 programming for Linux" http://0xax.blogspot.sk/p/assembly-x8664-programming-for-linux.html
+- *Optional*: x64 assembly http://rayseyfarth.com/asm/pdf/index.html
 - *Optional*: "Step by step to MIPS assembly" http://winfred-lu.blogspot.sk/2010/06/step-by-step-to-mips-assembly.html
+- *Optional*: FreeBSD Assembly Language Programming http://www.int80h.org/bsdasm/
 - "The dissection of a simple hello world ELF file" https://github.com/mewrev/dissection and "ELF101" http://imgur.com/a/JEObT
 - https://www.cs.stevens.edu/~jschauma/631/elf.html
 - "The 101 of ELF Binaries on Linux: Understanding and Analysis" http://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/
