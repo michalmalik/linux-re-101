@@ -49,6 +49,7 @@ Work in progress as I am actively collecting these.
 - "Linux on the Half-ELF" http://mammon.github.io/tales/linux_re.txt
 - "Linkers - 20 parts" http://www.airs.com/blog/page/4?s=linkers
 - "Quickly determine the capabilities of an ELF binary through static analysis" http://elfparser.com/
+- "Linux MIPS ELF reverse engineering tips" https://www.cr0.org/paper/mips.elf.external.resolution.txt
 
 #### Anti-debugging, infection techniques, viruses, obfuscation, encryption, shellcode and exploits
 
