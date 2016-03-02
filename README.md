@@ -89,6 +89,8 @@ Work in progress as I am actively collecting these.
 - "Linux 64-bit Return Oriented Programming" https://crypto.stanford.edu/~blynn/rop/
 - http://www.bitlackeys.org
 - "Kickers of ELF" http://www.muppetlabs.com/~breadbox/software/elfkickers.html
+- "Linux x64 Infection for Lamers (by a Lamer)" http://vxheaven.org/lib/vjp01.html
+- "Modern Day ELF Runtime infection via GOT poisoning" http://vxheaven.org/lib/vrn00.html
 
 #### Kernel rootkits, LKMs & stuff
 
@@ -186,3 +188,4 @@ Work in progress as I am actively collecting these.
 - "Hacking: The Art of Exploitation" by Jon Erickson
 - "The Shellcoder's Handbook: Discovering and Exploiting Security Holes" by Chris Anley, John Heasman, Felix Lindner
 - "The Linux Programming Interface" by Michael Kerrisk
+- "Learning Linux Binary Analysis" by Ryan O'Neill
