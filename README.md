@@ -30,6 +30,7 @@ Work in progress as I am actively collecting these.
 - "A Whirlwind Tutorial on Creating Really Teensy ELF Executables for Linux" http://www.muppetlabs.com/~breadbox/software/tiny/teensy.html
 - "Startup state of a Linux/i386 ELF binary" http://asm.sourceforge.net/articles/startup.html and http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html
 - "Stack frame layout on x86-64" http://eli.thegreenplace.net/2011/09/06/stack-frame-layout-on-x86-64
+- "The definitive guide to linux system calls" http://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/
 - "Anatomy of a system call, part 1" http://lwn.net/Articles/604287/
 - "Anatomy of a system call, part 2" http://lwn.net/SubscriberLink/604515
 - "About ELF auxiliary vectors" http://articles.manugarg.com/aboutelfauxiliaryvectors.html
