@@ -129,6 +129,7 @@ Work in progress as I am actively collecting these.
 - "MoVP 1.5 KBeast Rootkit, Detecting Hidden Modules, and sysfs " http://volatility-labs.blogspot.sk/2012/09/movp-15-kbeast-rootkit-detecting-hidden.html
 - "tool to locally check for signs of a rootkit" http://www.chkrootkit.org/
 - "a Unix-based tool that scans for rootkits, backdoors and possible local exploits" http://rkhunter.sourceforge.net/
+- "User space memory access from the Linux kernel" http://www.ibm.com/developerworks/library/l-kernel-memory-access/
 
 #### Crackmes and challenges
 
