@@ -92,6 +92,8 @@ Work in progress as I am actively collecting these.
 - "Kickers of ELF" http://www.muppetlabs.com/~breadbox/software/elfkickers.html
 - "Linux x64 Infection for Lamers (by a Lamer)" http://vxheaven.org/lib/vjp01.html
 - "Modern Day ELF Runtime infection via GOT poisoning" http://vxheaven.org/lib/vrn00.html
+- "Linux Kernel ROP - Ropping your way to # (Part 1) "https://www.trustwave.com/Resources/SpiderLabs-Blog/Linux-Kernel-ROP---Ropping-your-way-to---(Part-1)/
+- "Linux Kernel ROP - Ropping your way to # (Part 2)" https://www.trustwave.com/Resources/SpiderLabs-Blog/Linux-Kernel-ROP---Ropping-your-way-to---(Part-2)/
 
 #### Kernel rootkits, LKMs & stuff
 
