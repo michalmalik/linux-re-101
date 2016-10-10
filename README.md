@@ -187,6 +187,7 @@ Work in progress as I am actively collecting these.
 - "Fuzzing the ELF file format with Melkor" https://www.blackhat.com/docs/us-14/materials/arsenal/us-14-Hernandez-Melkor-Slides.pdf
 - "Write Yourself an Strace in 70 Lines of Code" https://blog.nelhage.com/2010/08/write-yourself-an-strace-in-70-lines-of-code/
 - "Status of the Kernel Self Protection Project" https://outflux.net/slides/2016/lss/kspp.pdf
+- "get_user_pages example" http://krishnamohanlinux.blogspot.sk/2015/02/getuserpages-example.html
 
 #### Books
 1. "Malware Forensics Field Guide for Linux Systems" by Cameron H. Malin, Eoghan Casey, James M. Aquilina
