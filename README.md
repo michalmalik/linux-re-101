@@ -96,6 +96,7 @@ Work in progress as I am actively collecting these.
 - "Infecting ELF-files using function padding for Linux" http://vxer.org/lib/vhe00.html
 - "Injected Evil (executable files infection)" http://vxheaven.org/lib/vzo08.html
 - "An unofficial analysis of the Retaliation Virus (Authored by JPanic)" http://vxer.org/lib/vrn01.html or http://www.bitlackeys.org/papers/retaliation.txt
+- "Skeksi virus" https://github.com/elfmaster/skeksi_virus
 - "Modern Day ELF Runtime infection via GOT poisoning" http://vxheaven.org/lib/vrn00.html
 - "From position-independent to self-relocatable viral code" http://vxer.org/lib/vhe08.html
 - "The Cerberus ELF interface" http://phrack.org/issues/61/8.html#article
