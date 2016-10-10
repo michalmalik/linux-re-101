@@ -77,6 +77,8 @@ Work in progress as I am actively collecting these.
 
 1. "LINUX ANTI-DEBUGGING TECHNIQUES (FOOLING THE DEBUGGER)" http://www.ouah.org/linux-anti-debugging.txt
 - "Kickers of ELF" http://www.muppetlabs.com/~breadbox/software/elfkickers.html
+- "ELF header abuse" https://github.com/strazzere/IDAnt-wanna
+- "ELF: dynamic struggles" "http://michalmalik.github.io/elf-dynamic-segment-struggles"
 - "ptrace() tutorial" http://mikecvet.wordpress.com/2010/08/14/ptrace-tutorial/
 - "ptrace() on 64-bit system" http://theantway.com/2013/01/notes-for-playing-with-ptrace-on-64-bits-ubuntu-12-10/
 - "Linux x86 run-time process manipulation" http://hick.org/code/skape/papers/needle.txt
@@ -151,7 +153,7 @@ Work in progress as I am actively collecting these.
 - http://security.cs.rpi.edu/courses/binexp-spring2015/lectures/2/challenges.zip from "Modern Binary Exploitation"
 - "Exercises" section in http://beginners.re/Reverse_Engineering_for_Beginners-en.pdf
 
-#### Analyzes & "hands-on"
+#### Analyzes, "hands-on" & analysis techniques
 
 1. "Reverse engineering with Radare2, part 1" http://samsymons.com/blog/reverse-engineering-with-radare2-part-1/
 - "Defeating IOLI with Radare2" http://dustri.org/b/defeating-ioli-with-radare2.html
@@ -160,6 +162,7 @@ Work in progress as I am actively collecting these.
 - "At Gunpoint Hacklu 2014 With Radare2" http://crowell.github.io/blog/2014/11/23/at-gunpoint-hacklu-2014-with-radare2/
 - "manual binary mangling with radare" http://phrack.org/issues/66/14.html#article
 - "Analysis of an unknown binary, for the HoneyNet Reverse Challenge" http://old.honeynet.org/reverse/results/sol/sol-06/analysis.html
+- "Reversing GO binaries like a pro" http://rednaga.io/2016/09/21/reversing_go_binaries_like_a_pro/
 
 #### Other
 1. "ElfParser blog" http://www.blog.elfparser.com/ 
