@@ -3,20 +3,18 @@ linux-re-101
 
 Work in progress as I am actively collecting these.
 
-#### TODO
-- Create architecture categories (x86, mips, arm, ..)
-
 #### Keep these handy
+
 - "Executable and Linkable Format (ELF)" http://www.skyfree.org/linux/references/ELF_Format.pdf or http://www.muppetlabs.com/~breadbox/software/ELF.txt (I like .txt more)
+- "Linux Cross Reference" http://lxr.free-electrons.com/
+- "Syscall table reference" https://w3challs.com/syscalls/
 - "System V ABI x86-64 Linux" http://www.x86-64.org/documentation/abi.pdf
 - "MIPS documentation" http://www.linux-mips.org/pub/linux/mips/doc/ABI/
 - "ELF for the ARM" http://infocenter.arm.com/help/topic/com.arm.doc.ihi0044e/IHI0044E_aaelf.pdf
 - "ELF for the ARM64" http://infocenter.arm.com/help/topic/com.arm.doc.ihi0056b/IHI0056B_aaelf64.pdf
 - "How to write shared libraries" by Ulrich Drepper http://www.akkadia.org/drepper/dsohowto.pdf    
-- "Linux Cross Reference" http://lxr.free-electrons.com/
-- "Syscall table reference" https://w3challs.com/syscalls/
 
-#### Basics
+#### 101
 
 1. *Optional*: "Gentle Introduction to x86-64 Assembly" http://www.x86-64.org/documentation/assembly.html 
 - *Optional*: "Guide to x86 assembly" http://www.cs.virginia.edu/~evans/cs216/guides/x86.html
@@ -24,78 +22,89 @@ Work in progress as I am actively collecting these.
 - *Optional*: x64 assembly http://rayseyfarth.com/asm/pdf/index.html
 - *Optional*: "Step by step to MIPS assembly" http://winfred-lu.blogspot.sk/2010/06/step-by-step-to-mips-assembly.html
 - *Optional*: FreeBSD Assembly Language Programming http://www.int80h.org/bsdasm/
+- *Optional*: "Linux MIPS ELF reverse engineering tips" https://www.cr0.org/paper/mips.elf.external.resolution.txt
 - "The dissection of a simple hello world ELF file" https://github.com/mewrev/dissection and "ELF101" http://imgur.com/a/JEObT
 - https://www.cs.stevens.edu/~jschauma/631/elf.html
 - "The 101 of ELF Binaries on Linux: Understanding and Analysis" http://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/
 - "A Whirlwind Tutorial on Creating Really Teensy ELF Executables for Linux" http://www.muppetlabs.com/~breadbox/software/tiny/teensy.html
+- "How statically linked programs run on Linux" http://eli.thegreenplace.net/2012/08/13/how-statically-linked-programs-run-on-linux
 - "Startup state of a Linux/i386 ELF binary" http://asm.sourceforge.net/articles/startup.html and http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html
 - "Stack frame layout on x86-64" http://eli.thegreenplace.net/2011/09/06/stack-frame-layout-on-x86-64
-- "The definitive guide to linux system calls" http://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/
-- "Anatomy of a system call, part 1" http://lwn.net/Articles/604287/
-- "Anatomy of a system call, part 2" http://lwn.net/SubscriberLink/604515
 - "About ELF auxiliary vectors" http://articles.manugarg.com/aboutelfauxiliaryvectors.html
 - "What is linux-gate.so.1?" http://www.trilithium.com/johan/2005/08/linux-gate/
 - "Understanding ld-linux.so.2 " http://www.cs.virginia.edu/~dww4s/articles/ld_linux.html
-- "Understanding Linux ELF RTLD internals" http://s.eresi-project.org/inc/articles/elf-rtld.txt
-- "How statically linked programs run on Linux" http://eli.thegreenplace.net/2012/08/13/how-statically-linked-programs-run-on-linux
+- "The definitive guide to linux system calls" http://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/
+- "Anatomy of a system call, part 1" http://lwn.net/Articles/604287/
+- "Anatomy of a system call, part 2" http://lwn.net/SubscriberLink/604515
+
+#### 201
+
+- *Optional*: "Linkers - 20 parts" http://www.airs.com/blog/page/4?s=linkers
 - "Static linking (x86) internals" http://sploitfun.blogspot.sk/2013/02/linking-with-static-library-internals.html
-- "Dynamic linking (x86) internals" http://sploitfun.blogspot.sk/2013/06/dynamic-linking-internals.html
 - "Static linking (x86_64) internals" http://sploitfun.blogspot.sk/2013/07/static-linking-x8664-internals.html
 - "Dynamic linking and x86_64 internals" http://sploitfun.blogspot.sk/2013/07/dynamic-linking-x8664-internals.html
+- "Dynamic linking (x86) internals" http://sploitfun.blogspot.sk/2013/06/dynamic-linking-internals.html
 - "PLT and GOT - they key to code sharing and dynamic libraries" https://www.technovelty.org//linux/plt-and-got-the-key-to-code-sharing-and-dynamic-libraries.html
 - "Understanding x64 code models" http://eli.thegreenplace.net/2012/01/03/understanding-the-x64-code-models/
 - "Load-time relocation of shared libraries " http://eli.thegreenplace.net/2011/08/25/load-time-relocation-of-shared-libraries
 - "Position Independent Code (PIC) in shared libraries " http://eli.thegreenplace.net/2011/11/03/position-independent-code-pic-in-shared-libraries/
 - "Position Independent Code (PIC) in shared libraries x64" http://eli.thegreenplace.net/2011/11/11/position-independent-code-pic-in-shared-libraries-on-x64/
-- "Linux on the Half-ELF" http://mammon.github.io/tales/linux_re.txt
-- "Linkers - 20 parts" http://www.airs.com/blog/page/4?s=linkers
-- "Quickly determine the capabilities of an ELF binary through static analysis" http://elfparser.com/
-- "Linux MIPS ELF reverse engineering tips" https://www.cr0.org/paper/mips.elf.external.resolution.txt
+- *Good night reading*: "Linux on the Half-ELF" http://mammon.github.io/tales/linux_re.txt
 
-#### Anti-debugging, infection techniques, viruses, obfuscation, encryption, shellcode and exploits
+#### Obfuscation and encryption
 
-1. "LINUX ANTI-DEBUGGING TECHNIQUES (FOOLING THE DEBUGGER)" http://www.ouah.org/linux-anti-debugging.txt
-- "ptrace() tutorial" http://mikecvet.wordpress.com/2010/08/14/ptrace-tutorial/
-- "ptrace() on 64-bit system" http://theantway.com/2013/01/notes-for-playing-with-ptrace-on-64-bits-ubuntu-12-10/
-- "Linux x86 run-time process manipulation" http://hick.org/code/skape/papers/needle.txt
-- "UNIX VIRUSES" http://ouah.org/unix-viruses.txt
-- "Linux viruses - ELF file format" by Marius Van Oers http://www.mcafee.com/us/resources/white-papers/wp-linux-viruses-elf-file-format.pdf
-- "UNIX ELF PARASITES AND VIRUS" http://ouah.org/elf-pv.txt
-- "Abusing .CTORS and .DTORS for fun 'n profit" http://vxer.org/lib/viz00.html
-- "Cheating the ELF Subversive Dynamic Linking to Libraries" http://www.ouah.org/subversiveld.pdf
-- "Reverse of a coin: A short note on segment alignment" http://vxheavens.com/lib/vhe04.html
-- "The WIT virus" http://vanilla47.com/PDFs/Viruses In Linux PDFs/The WIT Virus.pdf
-- "Caveat virus" http://vxer.org/herm1t/caveat_en.html
-- "Infecting ELF-files using function padding for Linux" http://vxer.org/lib/vhe00.html
-- "Injected Evil (executable files infection)" http://vxheaven.org/lib/vzo08.html
-- "INT 0x80? No, thank you! aka Pilot" http://vxer.org/herm1t/pilot_en.html
-- "From position-independent to self-relocatable viral code" http://vxer.org/lib/vhe08.html
-- Source code of infection techniques http://vxer.org/herm1t/examples.tar.gz by herm1t
-- "Runtime binary encryption" http://phrack.org/issues/58/5.html
+1. "Runtime binary encryption" http://phrack.org/issues/58/5.html
 - "Next-Gen Runtime Binary Encryption" http://phrack.org/issues/63/13.html
 - "Binary Protection Schemes" http://indra.linuxstudy.pe.kr/study/Binary%20Protection%20Schemes.pdf
-- "The Cerberus ELF interface" http://phrack.org/issues/61/8.html#article
-- "Malicious Code Injection via /dev/mem" http://www.blackhat.com/presentations/bh-europe-09/Lineberry/BlackHat-Europe-2009-Lineberry-code-injection-via-dev-mem.pdf
-- VX Heaven collection of viruses http://vxer.org/vl.php?dir=Virus.Linux
-- http://vxer.org/herm1t/ (Lacrimae is mind-bending)
 - "Shiva - Advances in ELF Binary Encryption" https://www.blackhat.com/presentations/bh-usa-03/bh-us-03-mehta/bh-us-03-mehta.pdf
 - "Burneye protector" http://packetstormsecurity.com/files/30648/burneye-1.0.1-src.tar.bz2.html
 - "ELF Encrypter" http://elf-encrypter.sourceforge.net/
-- "An unofficial analysis of the Retaliation Virus (Authored by JPanic)" http://vxer.org/lib/vrn01.html or http://www.bitlackeys.org/papers/retaliation.txt
-- "LD_NOT_PRELOADED_FOR_REAL" http://haxelion.eu/article/LD_NOT_PRELOADED_FOR_REAL/
 - "midgetpack is a multiplatform secure ELF packer" https://github.com/arisada/midgetpack
-- "Linux x86 Reverse Engineering - Shellcode Disassembling and XOR decryption" https://www.exploit-db.com/docs/33429.pdf
+
+#### Exploit techniques
+
+1. "Linux x86 Reverse Engineering - Shellcode Disassembling and XOR decryption" https://www.exploit-db.com/docs/33429.pdf
 - "Shellcoding in Linux" https://www.exploit-db.com/docs/21013.pdf
 - "Linux (x86) Exploit Development Series" https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/
 - "Linux 64-bit Return Oriented Programming" https://crypto.stanford.edu/~blynn/rop/
 - http://www.bitlackeys.org
-- "Kickers of ELF" http://www.muppetlabs.com/~breadbox/software/elfkickers.html
 - "Linux x64 Infection for Lamers (by a Lamer)" http://vxheaven.org/lib/vjp01.html
-- "Modern Day ELF Runtime infection via GOT poisoning" http://vxheaven.org/lib/vrn00.html
 - "Linux Kernel ROP - Ropping your way to # (Part 1) "https://www.trustwave.com/Resources/SpiderLabs-Blog/Linux-Kernel-ROP---Ropping-your-way-to---(Part-1)/
 - "Linux Kernel ROP - Ropping your way to # (Part 2)" https://www.trustwave.com/Resources/SpiderLabs-Blog/Linux-Kernel-ROP---Ropping-your-way-to---(Part-2)/
+- "Practice and learning in the world of C RE and exploit analysis " https://github.com/211217613/C-Hacking
 
-#### Kernel rootkits, LKMs & stuff
+#### Anti-debug techniques
+
+1. "LINUX ANTI-DEBUGGING TECHNIQUES (FOOLING THE DEBUGGER)" http://www.ouah.org/linux-anti-debugging.txt
+- "Kickers of ELF" http://www.muppetlabs.com/~breadbox/software/elfkickers.html
+- "ptrace() tutorial" http://mikecvet.wordpress.com/2010/08/14/ptrace-tutorial/
+- "ptrace() on 64-bit system" http://theantway.com/2013/01/notes-for-playing-with-ptrace-on-64-bits-ubuntu-12-10/
+- "Linux x86 run-time process manipulation" http://hick.org/code/skape/papers/needle.txt
+- "Cheating the ELF Subversive Dynamic Linking to Libraries" http://www.ouah.org/subversiveld.pdf
+- "LD_NOT_PRELOADED_FOR_REAL" http://haxelion.eu/article/LD_NOT_PRELOADED_FOR_REAL/
+
+#### Viruses & infection techniques
+
+1. "UNIX VIRUSES" http://ouah.org/unix-viruses.txt 
+- "UNIX ELF PARASITES AND VIRUS" http://ouah.org/elf-pv.txt
+- "Linux viruses - ELF file format" by Marius Van Oers http://www.mcafee.com/us/resources/white-papers/wp-linux-viruses-elf-file-format.pdf
+- "Abusing .CTORS and .DTORS for fun 'n profit" http://vxer.org/lib/viz00.html
+- "The WIT virus" http://vanilla47.com/PDFs/Viruses In Linux PDFs/The WIT Virus.pdf
+- "Caveat virus" http://vxer.org/herm1t/caveat_en.html
+- "Reverse of a coin: A short note on segment alignment" http://vxheavens.com/lib/vhe04.html
+- "INT 0x80? No, thank you! aka Pilot" http://vxer.org/herm1t/pilot_en.html
+- "Infecting ELF-files using function padding for Linux" http://vxer.org/lib/vhe00.html
+- "Injected Evil (executable files infection)" http://vxheaven.org/lib/vzo08.html
+- "An unofficial analysis of the Retaliation Virus (Authored by JPanic)" http://vxer.org/lib/vrn01.html or http://www.bitlackeys.org/papers/retaliation.txt
+- "Modern Day ELF Runtime infection via GOT poisoning" http://vxheaven.org/lib/vrn00.html
+- "From position-independent to self-relocatable viral code" http://vxer.org/lib/vhe08.html
+- "The Cerberus ELF interface" http://phrack.org/issues/61/8.html#article
+- "Malicious Code Injection via /dev/mem" http://www.blackhat.com/presentations/bh-europe-09/Lineberry/BlackHat-Europe-2009-Lineberry-code-injection-via-dev-mem.pdf
+- VX Heaven collection of viruses http://vxer.org/vl.php?dir=Virus.Linux
+- http://vxer.org/herm1t/
+- Source code of infection techniques http://vxer.org/herm1t/examples.tar.gz by herm1t
+
+#### Linux kernel, rootkits & LKM development
 
 1. *Optional*: "A series of posts about the linux kernel and its insides." http://0xax.gitbooks.io/linux-insides/content/index.html
 - *Optional*: "Kernel hacking HOWTO" http://kernelnewbies.org/New_Kernel_Hacking_HOWTO
@@ -132,6 +141,7 @@ Work in progress as I am actively collecting these.
 - "tool to locally check for signs of a rootkit" http://www.chkrootkit.org/
 - "a Unix-based tool that scans for rootkits, backdoors and possible local exploits" http://rkhunter.sourceforge.net/
 - "User space memory access from the Linux kernel" http://www.ibm.com/developerworks/library/l-kernel-memory-access/
+- "get_user_pages example" http://krishnamohanlinux.blogspot.sk/2015/02/getuserpages-example.html
 
 #### Crackmes and challenges
 
@@ -182,12 +192,11 @@ Work in progress as I am actively collecting these.
 - "Emulating Linux MIPS in Perl" http://schplog.schmorp.de/2015-06-08-emulating-linux-mips-in-perl-1.html
 - "Crypto 101" https://www.crypto101.io/
 - "REMnux 6" https://zeltser.com/remnux-v6-release-for-malware-analysis/
-- "Practice and learning in the world of C RE and exploit analysis " https://github.com/211217613/C-Hacking
 - https://people.debian.org/~aurel32/qemu/
 - "Fuzzing the ELF file format with Melkor" https://www.blackhat.com/docs/us-14/materials/arsenal/us-14-Hernandez-Melkor-Slides.pdf
 - "Write Yourself an Strace in 70 Lines of Code" https://blog.nelhage.com/2010/08/write-yourself-an-strace-in-70-lines-of-code/
 - "Status of the Kernel Self Protection Project" https://outflux.net/slides/2016/lss/kspp.pdf
-- "get_user_pages example" http://krishnamohanlinux.blogspot.sk/2015/02/getuserpages-example.html
+- "Quickly determine the capabilities of an ELF binary through static analysis" http://elfparser.com/
 
 #### Books
 1. "Malware Forensics Field Guide for Linux Systems" by Cameron H. Malin, Eoghan Casey, James M. Aquilina
