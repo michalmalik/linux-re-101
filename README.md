@@ -73,7 +73,7 @@ Work in progress as I am actively collecting these.
 - "Linux Kernel ROP - Ropping your way to # (Part 2)" https://www.trustwave.com/Resources/SpiderLabs-Blog/Linux-Kernel-ROP---Ropping-your-way-to---(Part-2)/
 - "Practice and learning in the world of C RE and exploit analysis " https://github.com/211217613/C-Hacking
 
-#### Anti-debug techniques
+#### Anti-analysis & anti-debug techniques
 
 1. "LINUX ANTI-DEBUGGING TECHNIQUES (FOOLING THE DEBUGGER)" http://www.ouah.org/linux-anti-debugging.txt
 - "Kickers of ELF" http://www.muppetlabs.com/~breadbox/software/elfkickers.html
