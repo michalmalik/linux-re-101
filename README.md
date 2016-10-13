@@ -67,11 +67,11 @@ Work in progress as I am actively collecting these.
 - "Shellcoding in Linux" https://www.exploit-db.com/docs/21013.pdf
 - "Linux (x86) Exploit Development Series" https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/
 - "Linux 64-bit Return Oriented Programming" https://crypto.stanford.edu/~blynn/rop/
-- http://www.bitlackeys.org
 - "Linux x64 Infection for Lamers (by a Lamer)" http://vxheaven.org/lib/vjp01.html
 - "Linux Kernel ROP - Ropping your way to # (Part 1) "https://www.trustwave.com/Resources/SpiderLabs-Blog/Linux-Kernel-ROP---Ropping-your-way-to---(Part-1)/
 - "Linux Kernel ROP - Ropping your way to # (Part 2)" https://www.trustwave.com/Resources/SpiderLabs-Blog/Linux-Kernel-ROP---Ropping-your-way-to---(Part-2)/
 - "Practice and learning in the world of C RE and exploit analysis " https://github.com/211217613/C-Hacking
+- "Modern Binary Exploitation" http://security.cs.rpi.edu/courses/binexp-spring2015/ (not strictly related to Linux)
 
 #### Anti-analysis & anti-debug techniques
 
@@ -168,6 +168,7 @@ Work in progress as I am actively collecting these.
 #### Research
 1. "ELF-Miner: Using structural knowledge and data mining methods to detect new (Linux) malicious executables" http://www.genetic-programming.org/hc2011/05-Farooq/Farooq-Paper.pdf
 - "Fuzzing the ELF file format with Melkor" https://www.blackhat.com/docs/us-14/materials/arsenal/us-14-Hernandez-Melkor-Slides.pdf
+- http://www.bitlackeys.org (all of it)
 
 #### Other
 1. "ElfParser blog" http://www.blog.elfparser.com/ 
@@ -178,7 +179,6 @@ Work in progress as I am actively collecting these.
 - "Intro to Radare2" http://rada.re/get/condret-r2talk.pdf
 - "Radare2 baby steps" http://maijin.fr/slides.pdf
 - "Radare A to Z" http://radare.org/get/RadareAZ-NN2015.pdf
-- "Modern Binary Exploitation" http://security.cs.rpi.edu/courses/binexp-spring2015/
 - "GCC protections" http://www.sawbox.net/s0t/txt/ssp.html
 - "100 GDB tips" https://github.com/hellogcc/100-gdb-tips/tree/master/src
 - https://github.com/citypw/citypw-SCFE/tree/master/security
