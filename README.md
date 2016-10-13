@@ -165,6 +165,10 @@ Work in progress as I am actively collecting these.
 - "Analysis of an unknown binary, for the HoneyNet Reverse Challenge" http://old.honeynet.org/reverse/results/sol/sol-06/analysis.html
 - "Reversing GO binaries like a pro" http://rednaga.io/2016/09/21/reversing_go_binaries_like_a_pro/
 
+#### Research
+1. "ELF-Miner: Using structural knowledge and data mining methods to detect new (Linux) malicious executables" http://www.genetic-programming.org/hc2011/05-Farooq/Farooq-Paper.pdf
+- "Fuzzing the ELF file format with Melkor" https://www.blackhat.com/docs/us-14/materials/arsenal/us-14-Hernandez-Melkor-Slides.pdf
+
 #### Other
 1. "ElfParser blog" http://www.blog.elfparser.com/ 
 - binary samples for testing https://github.com/JonathanSalwan
@@ -198,7 +202,6 @@ Work in progress as I am actively collecting these.
 - "Crypto 101" https://www.crypto101.io/
 - "REMnux 6" https://zeltser.com/remnux-v6-release-for-malware-analysis/
 - https://people.debian.org/~aurel32/qemu/
-- "Fuzzing the ELF file format with Melkor" https://www.blackhat.com/docs/us-14/materials/arsenal/us-14-Hernandez-Melkor-Slides.pdf
 - "Write Yourself an Strace in 70 Lines of Code" https://blog.nelhage.com/2010/08/write-yourself-an-strace-in-70-lines-of-code/
 - "Status of the Kernel Self Protection Project" https://outflux.net/slides/2016/lss/kspp.pdf
 - "Quickly determine the capabilities of an ELF binary through static analysis" http://elfparser.com/
