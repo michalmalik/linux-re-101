@@ -61,7 +61,7 @@ Work in progress as I am actively collecting these.
 - "ELF Encrypter" http://elf-encrypter.sourceforge.net/
 - "midgetpack is a multiplatform secure ELF packer" https://github.com/arisada/midgetpack
 
-#### Exploit techniques
+#### Exploitation
 
 1. "Linux x86 Reverse Engineering - Shellcode Disassembling and XOR decryption" https://www.exploit-db.com/docs/33429.pdf
 - "Shellcoding in Linux" https://www.exploit-db.com/docs/21013.pdf
@@ -72,6 +72,7 @@ Work in progress as I am actively collecting these.
 - "Linux Kernel ROP - Ropping your way to # (Part 2)" https://www.trustwave.com/Resources/SpiderLabs-Blog/Linux-Kernel-ROP---Ropping-your-way-to---(Part-2)/
 - "Practice and learning in the world of C RE and exploit analysis " https://github.com/211217613/C-Hacking
 - "Modern Binary Exploitation" http://security.cs.rpi.edu/courses/binexp-spring2015/ (not strictly related to Linux)
+- "Advanced exploitation on Linux: ROP and infoleaks" https://speakerdeck.com/milkmix/advanced-exploitation-on-linux-rop-and-infoleaks
 
 #### Anti-analysis & anti-debug techniques
 
