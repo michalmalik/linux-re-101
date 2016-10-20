@@ -206,6 +206,7 @@ Work in progress as I am actively collecting these.
 - "Write Yourself an Strace in 70 Lines of Code" https://blog.nelhage.com/2010/08/write-yourself-an-strace-in-70-lines-of-code/
 - "Status of the Kernel Self Protection Project" https://outflux.net/slides/2016/lss/kspp.pdf
 - "Quickly determine the capabilities of an ELF binary through static analysis" http://elfparser.com/
+- "Where did the fork go?" http://thorstenball.com/blog/2014/06/13/where-did-fork-go/
 
 #### Books
 1. "Malware Forensics Field Guide for Linux Systems" by Cameron H. Malin, Eoghan Casey, James M. Aquilina
