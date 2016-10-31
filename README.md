@@ -147,6 +147,7 @@ Work in progress as I am actively collecting these.
 - "User space memory access from the Linux kernel" http://www.ibm.com/developerworks/library/l-kernel-memory-access/
 - "get_user_pages example" http://krishnamohanlinux.blogspot.sk/2015/02/getuserpages-example.html
 - "Horse Pill: A New Type Of Linux Rootkit" https://www.blackhat.com/docs/us-16/materials/us-16-Leibowitz-Horse-Pill-A-New-Type-Of-Linux-Rootkit.pdf
+- "vlany, Linux (LD_PRELOAD) rootkit" https://github.com/mempodippy/vlany
 
 #### Crackmes and challenges
 
