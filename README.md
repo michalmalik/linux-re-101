@@ -171,6 +171,8 @@ Work in progress as I am actively collecting these.
 1. "ELF-Miner: Using structural knowledge and data mining methods to detect new (Linux) malicious executables" http://www.genetic-programming.org/hc2011/05-Farooq/Farooq-Paper.pdf
 - "Fuzzing the ELF file format with Melkor" https://www.blackhat.com/docs/us-14/materials/arsenal/us-14-Hernandez-Melkor-Slides.pdf
 - http://www.bitlackeys.org (all of it)
+- "Effective file format fuzzing" https://www.blackhat.com/docs/eu-16/materials/eu-16-Jurczyk-Effective-File-Format-Fuzzing-Thoughts-Techniques-And-Results.pdf (not related to Linux directly, but it's pretty great)
+- "Linux kernel sanitizers and syscall fuzzer" https://www.linuxplumbersconf.org/2016/ocw//system/presentations/3471/original/Sanitizers.pdf
 
 #### Other
 1. "ElfParser blog" http://www.blog.elfparser.com/ 
