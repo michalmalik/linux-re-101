@@ -27,6 +27,7 @@ Work in progress as I am actively collecting these.
 - https://www.cs.stevens.edu/~jschauma/631/elf.html
 - "The 101 of ELF Binaries on Linux: Understanding and Analysis" http://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/
 - "A Whirlwind Tutorial on Creating Really Teensy ELF Executables for Linux" http://www.muppetlabs.com/~breadbox/software/tiny/teensy.html
+- "How programs get run: ELF binaries" https://lwn.net/Articles/631631/
 - "How statically linked programs run on Linux" http://eli.thegreenplace.net/2012/08/13/how-statically-linked-programs-run-on-linux
 - "Startup state of a Linux/i386 ELF binary" http://asm.sourceforge.net/articles/startup.html and http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html
 - "Stack frame layout on x86-64" http://eli.thegreenplace.net/2011/09/06/stack-frame-layout-on-x86-64
@@ -210,6 +211,8 @@ Work in progress as I am actively collecting these.
 - "Status of the Kernel Self Protection Project" https://outflux.net/slides/2016/lss/kspp.pdf
 - "Quickly determine the capabilities of an ELF binary through static analysis" http://elfparser.com/
 - "Where did the fork go?" http://thorstenball.com/blog/2014/06/13/where-did-fork-go/
+- "Why is the ELF execution entry point virtual address of the form 0x80xxxxx and not zero 0x0?" http://stackoverflow.com/questions/2187484/why-is-the-elf-execution-entry-point-virtual-address-of-the-form-0x80xxxxx-and-n
+- "Why do virtual memory addresses for linux binaries start at 0x8048000?" http://stackoverflow.com/questions/2966426/why-do-virtual-memory-addresses-for-linux-binaries-start-at-0x8048000
 
 #### Books
 1. "Malware Forensics Field Guide for Linux Systems" by Cameron H. Malin, Eoghan Casey, James M. Aquilina
