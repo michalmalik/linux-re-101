@@ -86,6 +86,7 @@ Work in progress as I am actively collecting these.
 - "Linux x86 run-time process manipulation" http://hick.org/code/skape/papers/needle.txt
 - "Cheating the ELF Subversive Dynamic Linking to Libraries" http://www.ouah.org/subversiveld.pdf
 - "LD_NOT_PRELOADED_FOR_REAL" http://haxelion.eu/article/LD_NOT_PRELOADED_FOR_REAL/
+- https://github.com/antire-book/dont_panic
 
 #### Viruses & infection techniques
 
@@ -213,6 +214,7 @@ Work in progress as I am actively collecting these.
 - "Where did the fork go?" http://thorstenball.com/blog/2014/06/13/where-did-fork-go/
 - "Why is the ELF execution entry point virtual address of the form 0x80xxxxx and not zero 0x0?" http://stackoverflow.com/questions/2187484/why-is-the-elf-execution-entry-point-virtual-address-of-the-form-0x80xxxxx-and-n
 - "Why do virtual memory addresses for linux binaries start at 0x8048000?" http://stackoverflow.com/questions/2966426/why-do-virtual-memory-addresses-for-linux-binaries-start-at-0x8048000
+- "Linux process states" https://idea.popcount.org/2012-12-11-linux-process-states/
 
 #### Books
 1. "Malware Forensics Field Guide for Linux Systems" by Cameron H. Malin, Eoghan Casey, James M. Aquilina
