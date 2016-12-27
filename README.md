@@ -168,6 +168,8 @@ Work in progress as I am actively collecting these.
 - "manual binary mangling with radare" http://phrack.org/issues/66/14.html#article
 - "Analysis of an unknown binary, for the HoneyNet Reverse Challenge" http://old.honeynet.org/reverse/results/sol/sol-06/analysis.html
 - "Reversing GO binaries like a pro" http://rednaga.io/2016/09/21/reversing_go_binaries_like_a_pro/
+- "Reversing Golang" https://2016.zeronights.ru/wp-content/uploads/2016/12/GO_Zaytsev.pdf
+- "Reversing Linux Malware" https://github.com/radareorg/r2con/blob/master/2016/talks/11-ReversingLinuxMalware/r2con_SergiMartinez_ReversingLinuxMalware.pdf (includes Golang reversing with radare2)
 
 #### Research
 1. "ELF-Miner: Using structural knowledge and data mining methods to detect new (Linux) malicious executables" http://www.genetic-programming.org/hc2011/05-Farooq/Farooq-Paper.pdf
