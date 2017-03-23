@@ -68,6 +68,7 @@ Work in progress as I am actively collecting these.
 - "Shellcoding in Linux" https://www.exploit-db.com/docs/21013.pdf
 - "Linux (x86) Exploit Development Series" https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/
 - "Linux 64-bit Return Oriented Programming" https://crypto.stanford.edu/~blynn/rop/
+- "Introduction to Return Oriented Programming (ROP)" https://ketansingh.net/Introduction-to-Return-Oriented-Programming-ROP/
 - "Linux x64 Infection for Lamers (by a Lamer)" http://vxheaven.org/lib/vjp01.html
 - "Linux Kernel ROP - Ropping your way to # (Part 1) "https://www.trustwave.com/Resources/SpiderLabs-Blog/Linux-Kernel-ROP---Ropping-your-way-to---(Part-1)/
 - "Linux Kernel ROP - Ropping your way to # (Part 2)" https://www.trustwave.com/Resources/SpiderLabs-Blog/Linux-Kernel-ROP---Ropping-your-way-to---(Part-2)/
@@ -160,7 +161,6 @@ Work in progress as I am actively collecting these.
 
 #### Analyzes, "hands-on" & analysis techniques
 
-- "Reverse engineering with Radare2, part 1" http://samsymons.com/blog/reverse-engineering-with-radare2-part-1/
 - "Defeating IOLI with Radare2" http://dustri.org/b/defeating-ioli-with-radare2.html
 - "Using radare2 to pwn things" http://radare.today/using-radare2/
 - "Pwning With Radare2" http://crowell.github.io/blog/2014/11/23/pwning-with-radare2/
@@ -170,6 +170,9 @@ Work in progress as I am actively collecting these.
 - "Reversing GO binaries like a pro" http://rednaga.io/2016/09/21/reversing_go_binaries_like_a_pro/
 - "Reversing Golang" https://2016.zeronights.ru/wp-content/uploads/2016/12/GO_Zaytsev.pdf
 - "Reversing Linux Malware" https://github.com/radareorg/r2con/blob/master/2016/talks/11-ReversingLinuxMalware/r2con_SergiMartinez_ReversingLinuxMalware.pdf (includes Golang reversing with radare2)
+- https://samsymons.com/blog/reverse-engineering-with-radare2-part-1/
+- "Reverse Engineering With Radare2 – Part 2" https://insinuator.net/2016/08/reverse-engineering-with-radare2-part-2/
+- "Reverse Engineering With Radare2 – Part 3" https://insinuator.net/2016/10/reverse-engineering-with-radare2-part-3/
 
 #### Research
 - "ELF-Miner: Using structural knowledge and data mining methods to detect new (Linux) malicious executables" http://www.genetic-programming.org/hc2011/05-Farooq/Farooq-Paper.pdf
