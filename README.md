@@ -16,7 +16,7 @@ Work in progress as I am actively collecting these.
 
 #### 101
 
-1. *Optional*: "Gentle Introduction to x86-64 Assembly" http://www.x86-64.org/documentation/assembly.html 
+- *Optional*: "Gentle Introduction to x86-64 Assembly" http://www.x86-64.org/documentation/assembly.html 
 - *Optional*: "Guide to x86 assembly" http://www.cs.virginia.edu/~evans/cs216/guides/x86.html
 - *Optional*: "Assembly x86_64 programming for Linux" http://0xax.blogspot.sk/p/assembly-x8664-programming-for-linux.html
 - *Optional*: x64 assembly http://rayseyfarth.com/asm/pdf/index.html
@@ -54,7 +54,7 @@ Work in progress as I am actively collecting these.
 
 #### Obfuscation and encryption
 
-1. "Runtime binary encryption" http://phrack.org/issues/58/5.html
+- "Runtime binary encryption" http://phrack.org/issues/58/5.html
 - "Next-Gen Runtime Binary Encryption" http://phrack.org/issues/63/13.html
 - "Binary Protection Schemes" http://indra.linuxstudy.pe.kr/study/Binary%20Protection%20Schemes.pdf
 - "Shiva - Advances in ELF Binary Encryption" https://www.blackhat.com/presentations/bh-usa-03/bh-us-03-mehta/bh-us-03-mehta.pdf
@@ -64,7 +64,7 @@ Work in progress as I am actively collecting these.
 
 #### Exploitation
 
-1. "Linux x86 Reverse Engineering - Shellcode Disassembling and XOR decryption" https://www.exploit-db.com/docs/33429.pdf
+- "Linux x86 Reverse Engineering - Shellcode Disassembling and XOR decryption" https://www.exploit-db.com/docs/33429.pdf
 - "Shellcoding in Linux" https://www.exploit-db.com/docs/21013.pdf
 - "Linux (x86) Exploit Development Series" https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/
 - "Linux 64-bit Return Oriented Programming" https://crypto.stanford.edu/~blynn/rop/
@@ -77,7 +77,7 @@ Work in progress as I am actively collecting these.
 
 #### Anti-analysis & anti-debug techniques
 
-1. "LINUX ANTI-DEBUGGING TECHNIQUES (FOOLING THE DEBUGGER)" http://www.ouah.org/linux-anti-debugging.txt
+- "LINUX ANTI-DEBUGGING TECHNIQUES (FOOLING THE DEBUGGER)" http://www.ouah.org/linux-anti-debugging.txt
 - "Kickers of ELF" http://www.muppetlabs.com/~breadbox/software/elfkickers.html
 - "ELF header abuse" https://github.com/strazzere/IDAnt-wanna
 - "ELF: dynamic struggles" "http://michalmalik.github.io/elf-dynamic-segment-struggles"
@@ -90,7 +90,7 @@ Work in progress as I am actively collecting these.
 
 #### Viruses & infection techniques
 
-1. "UNIX VIRUSES" http://ouah.org/unix-viruses.txt 
+- "UNIX VIRUSES" http://ouah.org/unix-viruses.txt 
 - "UNIX ELF PARASITES AND VIRUS" http://ouah.org/elf-pv.txt
 - "Linux viruses - ELF file format" by Marius Van Oers http://www.mcafee.com/us/resources/white-papers/wp-linux-viruses-elf-file-format.pdf
 - "Abusing .CTORS and .DTORS for fun 'n profit" http://vxer.org/lib/viz00.html
@@ -112,7 +112,7 @@ Work in progress as I am actively collecting these.
 
 #### Linux kernel, rootkits & LKM development
 
-1. *Optional*: "A series of posts about the linux kernel and its insides." http://0xax.gitbooks.io/linux-insides/content/index.html
+- *Optional*: "A series of posts about the linux kernel and its insides." http://0xax.gitbooks.io/linux-insides/content/index.html
 - *Optional*: "Kernel hacking HOWTO" http://kernelnewbies.org/New_Kernel_Hacking_HOWTO
 - "Anatomy of the Linux kernel" http://www.ibm.com/developerworks/linux/library/l-linux-kernel/index.html
 - "Linux process management" http://www.ibm.com/developerworks/linux/library/l-linux-process-management/index.html
@@ -153,14 +153,14 @@ Work in progress as I am actively collecting these.
 
 #### Crackmes and challenges
 
-1. "Exercises for learning Reverse Engineering and Exploitation." https://github.com/wapiflapi/exrs
+- "Exercises for learning Reverse Engineering and Exploitation." https://github.com/wapiflapi/exrs
 - "IOLI crackme" http://dustri.org/b/files/IOLI-crackme.tar.gz
 - http://security.cs.rpi.edu/courses/binexp-spring2015/lectures/2/challenges.zip from "Modern Binary Exploitation"
 - "Exercises" section in http://beginners.re/Reverse_Engineering_for_Beginners-en.pdf
 
 #### Analyzes, "hands-on" & analysis techniques
 
-1. "Reverse engineering with Radare2, part 1" http://samsymons.com/blog/reverse-engineering-with-radare2-part-1/
+- "Reverse engineering with Radare2, part 1" http://samsymons.com/blog/reverse-engineering-with-radare2-part-1/
 - "Defeating IOLI with Radare2" http://dustri.org/b/defeating-ioli-with-radare2.html
 - "Using radare2 to pwn things" http://radare.today/using-radare2/
 - "Pwning With Radare2" http://crowell.github.io/blog/2014/11/23/pwning-with-radare2/
@@ -172,14 +172,14 @@ Work in progress as I am actively collecting these.
 - "Reversing Linux Malware" https://github.com/radareorg/r2con/blob/master/2016/talks/11-ReversingLinuxMalware/r2con_SergiMartinez_ReversingLinuxMalware.pdf (includes Golang reversing with radare2)
 
 #### Research
-1. "ELF-Miner: Using structural knowledge and data mining methods to detect new (Linux) malicious executables" http://www.genetic-programming.org/hc2011/05-Farooq/Farooq-Paper.pdf
+- "ELF-Miner: Using structural knowledge and data mining methods to detect new (Linux) malicious executables" http://www.genetic-programming.org/hc2011/05-Farooq/Farooq-Paper.pdf
 - "Fuzzing the ELF file format with Melkor" https://www.blackhat.com/docs/us-14/materials/arsenal/us-14-Hernandez-Melkor-Slides.pdf
 - http://www.bitlackeys.org (all of it)
 - "Effective file format fuzzing" https://www.blackhat.com/docs/eu-16/materials/eu-16-Jurczyk-Effective-File-Format-Fuzzing-Thoughts-Techniques-And-Results.pdf (not related to Linux directly, but it's pretty great)
 - "Linux kernel sanitizers and syscall fuzzer" https://www.linuxplumbersconf.org/2016/ocw//system/presentations/3471/original/Sanitizers.pdf
 
 #### Other
-1. "ElfParser blog" http://www.blog.elfparser.com/ 
+- "ElfParser blog" http://www.blog.elfparser.com/ 
 - binary samples for testing https://github.com/JonathanSalwan
 - "Building a concrete alternative to IDA - Radare2 to the rescue!" https://recon.cx/2015/slides/recon2015-04-jeffrey-crowell-julien-voisin-Radare2-building-a-new-IDA.pdf
 - "Introduction to Reverse Engineering Software in Linux" http://ouah.org/RevEng/ 
@@ -221,7 +221,7 @@ Work in progress as I am actively collecting these.
 - "Writing a Linux Debugger Part 1: Setup" http://blog.tartanllama.xyz/c++/2017/03/21/writing-a-linux-debugger-setup/
 
 #### Books
-1. "Malware Forensics Field Guide for Linux Systems" by Cameron H. Malin, Eoghan Casey, James M. Aquilina
+- "Malware Forensics Field Guide for Linux Systems" by Cameron H. Malin, Eoghan Casey, James M. Aquilina
 - "Linux (Bezpečnosť a exploity)" by Miroslav Dobšíček and Radim Ballner
 - "Hacking: The Art of Exploitation" by Jon Erickson
 - "The Shellcoder's Handbook: Discovering and Exploiting Security Holes" by Chris Anley, John Heasman, Felix Lindner
