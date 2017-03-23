@@ -218,6 +218,7 @@ Work in progress as I am actively collecting these.
 - "Why do virtual memory addresses for linux binaries start at 0x8048000?" http://stackoverflow.com/questions/2966426/why-do-virtual-memory-addresses-for-linux-binaries-start-at-0x8048000
 - "Linux process states" https://idea.popcount.org/2012-12-11-linux-process-states/
 - "Relocations, relocations" http://www.mindfruit.co.uk/2012/06/relocations-relocations.html
+- "Writing a Linux Debugger Part 1: Setup" http://blog.tartanllama.xyz/c++/2017/03/21/writing-a-linux-debugger-setup/
 
 #### Books
 1. "Malware Forensics Field Guide for Linux Systems" by Cameron H. Malin, Eoghan Casey, James M. Aquilina
