@@ -89,6 +89,8 @@ Work in progress as I am actively collecting these.
 - "Cheating the ELF Subversive Dynamic Linking to Libraries" http://www.ouah.org/subversiveld.pdf
 - "LD_NOT_PRELOADED_FOR_REAL" http://haxelion.eu/article/LD_NOT_PRELOADED_FOR_REAL/
 - https://github.com/antire-book/dont_panic
+- "gdb leaves file descriptors open in debugee" https://silviocesare.wordpress.com/2008/05/13/gdb-leaves-file-descriptors-open-in-debugee/
+- "More GDB Anti-Debugging" https://xorl.wordpress.com/2009/01/05/more-gdb-anti-debugging/
 
 #### Viruses & infection techniques
 
