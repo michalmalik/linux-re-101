@@ -225,6 +225,9 @@ Work in progress as I am actively collecting these.
 - "Linux process states" https://idea.popcount.org/2012-12-11-linux-process-states/
 - "Relocations, relocations" http://www.mindfruit.co.uk/2012/06/relocations-relocations.html
 - "Writing a Linux Debugger Part 1: Setup" http://blog.tartanllama.xyz/c++/2017/03/21/writing-a-linux-debugger-setup/
+- "Writing a Linux Debugger Part 2: Breakpoints" http://blog.tartanllama.xyz/c++/2017/03/24/writing-a-linux-debugger-breakpoints/
+- "Writing a Linux Debugger Part 3: Registers and memory" http://blog.tartanllama.xyz/c++/2017/03/31/writing-a-linux-debugger-registers/
+- "Writing a Linux Debugger Part 4: Elves and dwarves" http://blog.tartanllama.xyz/c++/2017/04/05/writing-a-linux-debugger-elf-dwarf/
 
 #### Books
 - "Malware Forensics Field Guide for Linux Systems" by Cameron H. Malin, Eoghan Casey, James M. Aquilina
