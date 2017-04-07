@@ -163,6 +163,7 @@ Work in progress as I am actively collecting these.
 - "Hacking the wholism of GNU/Linux net*" http://kernelnewbies.org/Networking?action=AttachFile&do=get&target=hacking_the_wholism_of_linux_net.txt
 - "Linux Device Drivers" https://lwn.net/Kernel/LDD3/
 - "Linux Data Structures" http://tldp.org/LDP/tlk/ds/ds.html
+- "Status of the Kernel Self Protection Project" https://outflux.net/slides/2016/lss/kspp.pdf
 
 #### Crackmes and challenges
 
@@ -171,8 +172,9 @@ Work in progress as I am actively collecting these.
 - http://security.cs.rpi.edu/courses/binexp-spring2015/lectures/2/challenges.zip from "Modern Binary Exploitation"
 - "Exercises" section in http://beginners.re/Reverse_Engineering_for_Beginners-en.pdf
 
-#### Analyzes, "hands-on",  analysis techniques
+#### Analyzes, "hands-on", analysis techniques
 
+- "100 GDB tips" https://github.com/hellogcc/100-gdb-tips/tree/master/src
 - "Defeating IOLI with Radare2" http://dustri.org/b/defeating-ioli-with-radare2.html
 - "Using radare2 to pwn things" http://radare.today/using-radare2/
 - "Pwning With Radare2" http://crowell.github.io/blog/2014/11/23/pwning-with-radare2/
@@ -186,7 +188,8 @@ Work in progress as I am actively collecting these.
 - "Reverse Engineering With Radare2 – Part 2" https://insinuator.net/2016/08/reverse-engineering-with-radare2-part-2/
 - "Reverse Engineering With Radare2 – Part 3" https://insinuator.net/2016/10/reverse-engineering-with-radare2-part-3/
 
-#### Research
+#### Research and development
+- binary samples for testing https://github.com/JonathanSalwan
 - "ELF Eccentricities - Julian Bangert, Sergey Bratus" https://www.youtube.com/watch?v=4LU6N6THh2U
 - "ELF-Miner: Using structural knowledge and data mining methods to detect new (Linux) malicious executables" http://www.genetic-programming.org/hc2011/05-Farooq/Farooq-Paper.pdf
 - "Fuzzing the ELF file format with Melkor" https://www.blackhat.com/docs/us-14/materials/arsenal/us-14-Hernandez-Melkor-Slides.pdf
@@ -197,41 +200,40 @@ Work in progress as I am actively collecting these.
 - "ELF vs. Mach-O" http://timetobleed.com/dynamic-linking-elf-vs-mach-o/
 - "ELF vs. Mach-O 2" http://timetobleed.com/dynamic-symbol-table-duel-elf-vs-mach-o-round-2/
 - "Where did the fork go?" http://thorstenball.com/blog/2014/06/13/where-did-fork-go/
+- "Write Yourself an Strace in 70 Lines of Code" https://blog.nelhage.com/2010/08/write-yourself-an-strace-in-70-lines-of-code/
+- "Writing a Linux Debugger Part 1: Setup" http://blog.tartanllama.xyz/c++/2017/03/21/writing-a-linux-debugger-setup/
+- "Writing a Linux Debugger Part 2: Breakpoints" http://blog.tartanllama.xyz/c++/2017/03/24/writing-a-linux-debugger-breakpoints/
+- "Writing a Linux Debugger Part 3: Registers and memory" http://blog.tartanllama.xyz/c++/2017/03/31/writing-a-linux-debugger-registers/
+- "Writing a Linux Debugger Part 4: Elves and dwarves" http://blog.tartanllama.xyz/c++/2017/04/05/writing-a-linux-debugger-elf-dwarf/
 
 #### Tools
+
 - "Quickly determine the capabilities of an ELF binary through static analysis" http://elfparser.com/
 - "LIEF (Library to Instrument Executable Formats) https://lief.quarkslab.com/"
 - "Dumps the contents of a SysV shared memory segment" https://github.com/niklata/shmcat
 - "ld-linux code injector" https://github.com/sduverger/ld-shatner
+- "Measuring Linux at Runtime" http://www.unixist.com/security/measuring-linux-at-runtime/index.html coupled with https://github.com/unixist/camb
 
 #### Other
-- binary samples for testing https://github.com/JonathanSalwan
+
 - "Building a concrete alternative to IDA - Radare2 to the rescue!" https://recon.cx/2015/slides/recon2015-04-jeffrey-crowell-julien-voisin-Radare2-building-a-new-IDA.pdf
 - "Introduction to Reverse Engineering Software in Linux" http://ouah.org/RevEng/ 
 - "Radare2 book" http://radare.gitbooks.io/radare2book/content/
 - "Intro to Radare2" http://rada.re/get/condret-r2talk.pdf
 - "Radare2 baby steps" http://maijin.fr/slides.pdf
 - "Radare A to Z" http://radare.org/get/RadareAZ-NN2015.pdf
-- "GCC protections" http://www.sawbox.net/s0t/txt/ssp.html
-- "100 GDB tips" https://github.com/hellogcc/100-gdb-tips/tree/master/src
 - https://github.com/citypw/citypw-SCFE/tree/master/security
 - http://mammon.github.io/
 - https://code.google.com/p/corkami/downloads/list & https://code.google.com/p/corkami/source/browse/#svn/trunk/wip/elf
 - https://github.com/jbangert/mithril
-- "Measuring Linux at Runtime" http://www.unixist.com/security/measuring-linux-at-runtime/index.html coupled with https://github.com/unixist/camb
 - http://0x90909090.blogspot.fr/2015/07/no-one-expect-command-execution.html
 - "Emulating Linux MIPS in Perl" http://schplog.schmorp.de/2015-06-08-emulating-linux-mips-in-perl-1.html
 - "Crypto 101" https://www.crypto101.io/
 - "REMnux 6" https://zeltser.com/remnux-v6-release-for-malware-analysis/
 - https://people.debian.org/~aurel32/qemu/
-- "Write Yourself an Strace in 70 Lines of Code" https://blog.nelhage.com/2010/08/write-yourself-an-strace-in-70-lines-of-code/
-- "Status of the Kernel Self Protection Project" https://outflux.net/slides/2016/lss/kspp.pdf
+
 - "Why is the ELF execution entry point virtual address of the form 0x80xxxxx and not zero 0x0?" http://stackoverflow.com/questions/2187484/why-is-the-elf-execution-entry-point-virtual-address-of-the-form-0x80xxxxx-and-n
 - "Why do virtual memory addresses for linux binaries start at 0x8048000?" http://stackoverflow.com/questions/2966426/why-do-virtual-memory-addresses-for-linux-binaries-start-at-0x8048000
-- "Writing a Linux Debugger Part 1: Setup" http://blog.tartanllama.xyz/c++/2017/03/21/writing-a-linux-debugger-setup/
-- "Writing a Linux Debugger Part 2: Breakpoints" http://blog.tartanllama.xyz/c++/2017/03/24/writing-a-linux-debugger-breakpoints/
-- "Writing a Linux Debugger Part 3: Registers and memory" http://blog.tartanllama.xyz/c++/2017/03/31/writing-a-linux-debugger-registers/
-- "Writing a Linux Debugger Part 4: Elves and dwarves" http://blog.tartanllama.xyz/c++/2017/04/05/writing-a-linux-debugger-elf-dwarf/
 
 #### Books
 - "Malware Forensics Field Guide for Linux Systems" by Cameron H. Malin, Eoghan Casey, James M. Aquilina
