@@ -120,7 +120,7 @@ Work in progress as I am actively collecting these.
 - http://vxer.org/herm1t/
 - Source code of infection techniques http://vxer.org/herm1t/examples.tar.gz by herm1t
 
-#### Linux kernel, rootkits & LKM development
+#### Linux kernel, rootkits, and LKM development
 
 - *Optional*: "A series of posts about the linux kernel and its insides." http://0xax.gitbooks.io/linux-insides/content/index.html
 - *Optional*: "Kernel hacking HOWTO" http://kernelnewbies.org/New_Kernel_Hacking_HOWTO
@@ -143,7 +143,6 @@ Work in progress as I am actively collecting these.
 - Check the README for more https://github.com/citypw/citypw-SCFE/tree/master/security/rootkit/hide_file
 - "UNIX and Linux based rootkits" http://www.kernelhacking.com/rodrigo/docs/StMichael/BuntenSlides.pdf
 - "Sample rootkit for linux" https://github.com/ivyl/rootkit/
-- "Linux Rootkit Scanner" https://github.com/dgoulet/kjackal
 - "Writing a LKM rootkit that uses LSM hooks" http://vladz.devzero.fr/015_lsm-backdoor.html
 - "TCP/UDP symmetric encryption tunnel wrapper" https://github.com/chokepoint/CryptHook
 - "Userland rootkit based off of the original LD_PRELOAD technique from Jynx rootkit" https://github.com/chokepoint/azazel
@@ -153,9 +152,6 @@ Work in progress as I am actively collecting these.
 - https://github.com/mfontanini/Programs-Scripts/blob/master/rootkit/rootkit.c
 - "Linux: Creating an entry in /proc file system (Part 1: The hello_proc pseudo file)" http://pointer-overloading.blogspot.in/2013/09/linux-creating-entry-in-proc-file.html
 - Answer to "Ripping out the hidden kernel module by reading kernel memory directly?" http://stackoverflow.com/a/18464599
-- "MoVP 1.5 KBeast Rootkit, Detecting Hidden Modules, and sysfs " http://volatility-labs.blogspot.sk/2012/09/movp-15-kbeast-rootkit-detecting-hidden.html
-- "tool to locally check for signs of a rootkit" http://www.chkrootkit.org/
-- "a Unix-based tool that scans for rootkits, backdoors and possible local exploits" http://rkhunter.sourceforge.net/
 - "User space memory access from the Linux kernel" http://www.ibm.com/developerworks/library/l-kernel-memory-access/
 - "get_user_pages example" http://krishnamohanlinux.blogspot.sk/2015/02/getuserpages-example.html
 - "Horse Pill: A New Type Of Linux Rootkit" https://www.blackhat.com/docs/us-16/materials/us-16-Leibowitz-Horse-Pill-A-New-Type-Of-Linux-Rootkit.pdf
@@ -210,9 +206,14 @@ Work in progress as I am actively collecting these.
 
 - "Quickly determine the capabilities of an ELF binary through static analysis" http://elfparser.com/
 - "LIEF (Library to Instrument Executable Formats) https://lief.quarkslab.com/"
-- "Dumps the contents of a SysV shared memory segment" https://github.com/niklata/shmcat
+- "[shmcat] Dumps the contents of a SysV shared memory segment" https://github.com/niklata/shmcat
 - "ld-linux code injector" https://github.com/sduverger/ld-shatner
 - "Measuring Linux at Runtime" http://www.unixist.com/security/measuring-linux-at-runtime/index.html coupled with https://github.com/unixist/camb
+- "Linux Rootkit Scanner" https://github.com/dgoulet/kjackal
+- "tool to locally check for signs of a rootkit" http://www.chkrootkit.org/
+- "a Unix-based tool that scans for rootkits, backdoors and possible local exploits" http://rkhunter.sourceforge.net/
+- "MoVP 1.5 KBeast Rootkit, Detecting Hidden Modules, and sysfs " http://volatility-labs.blogspot.sk/2012/09/movp-15-kbeast-rootkit-detecting-hidden.html
+- https://github.com/detuxsandbox/detux
 
 #### Other
 
@@ -231,7 +232,6 @@ Work in progress as I am actively collecting these.
 - "Crypto 101" https://www.crypto101.io/
 - "REMnux 6" https://zeltser.com/remnux-v6-release-for-malware-analysis/
 - https://people.debian.org/~aurel32/qemu/
-
 - "Why is the ELF execution entry point virtual address of the form 0x80xxxxx and not zero 0x0?" http://stackoverflow.com/questions/2187484/why-is-the-elf-execution-entry-point-virtual-address-of-the-form-0x80xxxxx-and-n
 - "Why do virtual memory addresses for linux binaries start at 0x8048000?" http://stackoverflow.com/questions/2966426/why-do-virtual-memory-addresses-for-linux-binaries-start-at-0x8048000
 
