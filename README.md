@@ -5,6 +5,7 @@ Work in progress as I am actively collecting these.
 
 #### Keep these handy
 
+- Describes how all syscalls for all architectures work (what registers are for input, output, error, ..) http://man7.org/linux/man-pages/man2/syscall.2.html
 - "Executable and Linkable Format (ELF)" http://www.skyfree.org/linux/references/ELF_Format.pdf or http://www.muppetlabs.com/~breadbox/software/ELF.txt (I like .txt more)
 - "Linux Cross Reference" http://lxr.free-electrons.com/
 - "Syscall table reference" https://w3challs.com/syscalls/
@@ -27,17 +28,18 @@ Work in progress as I am actively collecting these.
 - https://www.cs.stevens.edu/~jschauma/631/elf.html
 - "The 101 of ELF Binaries on Linux: Understanding and Analysis" http://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/
 - "A Whirlwind Tutorial on Creating Really Teensy ELF Executables for Linux" http://www.muppetlabs.com/~breadbox/software/tiny/teensy.html
+- "The definitive guide to linux system calls" http://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/
+- "Anatomy of a system call, part 1" http://lwn.net/Articles/604287/
+- "Anatomy of a system call, part 2" http://lwn.net/SubscriberLink/604515
+- "About ELF auxiliary vectors" http://articles.manugarg.com/aboutelfauxiliaryvectors.html
 - "How programs get run: ELF binaries" https://lwn.net/Articles/631631/
 - "Linux x86 Program Start Up" http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html
 - "How statically linked programs run on Linux" http://eli.thegreenplace.net/2012/08/13/how-statically-linked-programs-run-on-linux
 - "Startup state of a Linux/i386 ELF binary" http://asm.sourceforge.net/articles/startup.html and http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html
 - "Stack frame layout on x86-64" http://eli.thegreenplace.net/2011/09/06/stack-frame-layout-on-x86-64
-- "About ELF auxiliary vectors" http://articles.manugarg.com/aboutelfauxiliaryvectors.html
 - "What is linux-gate.so.1?" http://www.trilithium.com/johan/2005/08/linux-gate/
 - "Understanding ld-linux.so.2 " http://www.cs.virginia.edu/~dww4s/articles/ld_linux.html
-- "The definitive guide to linux system calls" http://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/
-- "Anatomy of a system call, part 1" http://lwn.net/Articles/604287/
-- "Anatomy of a system call, part 2" http://lwn.net/SubscriberLink/604515
+- "Linux process states" https://idea.popcount.org/2012-12-11-linux-process-states/
 
 #### 201
 
@@ -51,9 +53,10 @@ Work in progress as I am actively collecting these.
 - "Load-time relocation of shared libraries " http://eli.thegreenplace.net/2011/08/25/load-time-relocation-of-shared-libraries
 - "Position Independent Code (PIC) in shared libraries " http://eli.thegreenplace.net/2011/11/03/position-independent-code-pic-in-shared-libraries/
 - "Position Independent Code (PIC) in shared libraries x64" http://eli.thegreenplace.net/2011/11/11/position-independent-code-pic-in-shared-libraries-on-x64/
+- "Relocations, relocations" http://www.mindfruit.co.uk/2012/06/relocations-relocations.html
 - *Good night reading*: "Linux on the Half-ELF" http://mammon.github.io/tales/linux_re.txt
 
-#### Obfuscation and encryption
+#### Packers, obfuscation, and encryption
 
 - "Runtime binary encryption" http://phrack.org/issues/58/5.html
 - "Next-Gen Runtime Binary Encryption" http://phrack.org/issues/63/13.html
@@ -73,15 +76,16 @@ Work in progress as I am actively collecting these.
 - "Linux x64 Infection for Lamers (by a Lamer)" http://vxheaven.org/lib/vjp01.html
 - "Linux Kernel ROP - Ropping your way to # (Part 1) "https://www.trustwave.com/Resources/SpiderLabs-Blog/Linux-Kernel-ROP---Ropping-your-way-to---(Part-1)/
 - "Linux Kernel ROP - Ropping your way to # (Part 2)" https://www.trustwave.com/Resources/SpiderLabs-Blog/Linux-Kernel-ROP---Ropping-your-way-to---(Part-2)/
-- "Practice and learning in the world of C RE and exploit analysis " https://github.com/211217613/C-Hacking
+- "Practice and learning in the world of C RE and exploit analysis" https://github.com/211217613/C-Hacking
 - "Modern Binary Exploitation" http://security.cs.rpi.edu/courses/binexp-spring2015/ (not strictly related to Linux)
 - "Advanced exploitation on Linux: ROP and infoleaks" https://speakerdeck.com/milkmix/advanced-exploitation-on-linux-rop-and-infoleaks
 
-#### Anti-analysis & anti-debug techniques
+#### Anti techniques
 
 - "LINUX ANTI-DEBUGGING TECHNIQUES (FOOLING THE DEBUGGER)" http://www.ouah.org/linux-anti-debugging.txt
 - "Kickers of ELF" http://www.muppetlabs.com/~breadbox/software/elfkickers.html
 - "ELF header abuse" https://github.com/strazzere/IDAnt-wanna
+- "Toolkit to detect/crash/attack GNU debugging-related tools" https://github.com/jvoisin/pangu
 - "ELF: dynamic struggles" "http://michalmalik.github.io/elf-dynamic-segment-struggles"
 - "ptrace() tutorial" http://mikecvet.wordpress.com/2010/08/14/ptrace-tutorial/
 - "ptrace() on 64-bit system" http://theantway.com/2013/01/notes-for-playing-with-ptrace-on-64-bits-ubuntu-12-10/
@@ -91,6 +95,8 @@ Work in progress as I am actively collecting these.
 - https://github.com/antire-book/dont_panic
 - "gdb leaves file descriptors open in debugee" https://silviocesare.wordpress.com/2008/05/13/gdb-leaves-file-descriptors-open-in-debugee/
 - "More GDB Anti-Debugging" https://xorl.wordpress.com/2009/01/05/more-gdb-anti-debugging/
+- "How to detect virtualization on Linux" http://www.dmo.ca/blog/detecting-virtualization-on-linux/
+- "Mechanisms to determine VMWare VM" http://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=1009458
 
 #### Viruses & infection techniques
 
@@ -154,6 +160,9 @@ Work in progress as I am actively collecting these.
 - "get_user_pages example" http://krishnamohanlinux.blogspot.sk/2015/02/getuserpages-example.html
 - "Horse Pill: A New Type Of Linux Rootkit" https://www.blackhat.com/docs/us-16/materials/us-16-Leibowitz-Horse-Pill-A-New-Type-Of-Linux-Rootkit.pdf
 - "vlany, Linux (LD_PRELOAD) rootkit" https://github.com/mempodippy/vlany
+- "Hacking the wholism of GNU/Linux net*" http://kernelnewbies.org/Networking?action=AttachFile&do=get&target=hacking_the_wholism_of_linux_net.txt
+- "Linux Device Drivers" https://lwn.net/Kernel/LDD3/
+- "Linux Data Structures" http://tldp.org/LDP/tlk/ds/ds.html
 
 #### Crackmes and challenges
 
@@ -162,7 +171,7 @@ Work in progress as I am actively collecting these.
 - http://security.cs.rpi.edu/courses/binexp-spring2015/lectures/2/challenges.zip from "Modern Binary Exploitation"
 - "Exercises" section in http://beginners.re/Reverse_Engineering_for_Beginners-en.pdf
 
-#### Analyzes, "hands-on" & analysis techniques
+#### Analyzes, "hands-on",  analysis techniques
 
 - "Defeating IOLI with Radare2" http://dustri.org/b/defeating-ioli-with-radare2.html
 - "Using radare2 to pwn things" http://radare.today/using-radare2/
@@ -178,14 +187,24 @@ Work in progress as I am actively collecting these.
 - "Reverse Engineering With Radare2 – Part 3" https://insinuator.net/2016/10/reverse-engineering-with-radare2-part-3/
 
 #### Research
+- "ELF Eccentricities - Julian Bangert, Sergey Bratus" https://www.youtube.com/watch?v=4LU6N6THh2U
 - "ELF-Miner: Using structural knowledge and data mining methods to detect new (Linux) malicious executables" http://www.genetic-programming.org/hc2011/05-Farooq/Farooq-Paper.pdf
 - "Fuzzing the ELF file format with Melkor" https://www.blackhat.com/docs/us-14/materials/arsenal/us-14-Hernandez-Melkor-Slides.pdf
 - http://www.bitlackeys.org (all of it)
 - "Effective file format fuzzing" https://www.blackhat.com/docs/eu-16/materials/eu-16-Jurczyk-Effective-File-Format-Fuzzing-Thoughts-Techniques-And-Results.pdf (not related to Linux directly, but it's pretty great)
 - "Linux kernel sanitizers and syscall fuzzer" https://www.linuxplumbersconf.org/2016/ocw//system/presentations/3471/original/Sanitizers.pdf
+- "ElfParser blog" http://www.blog.elfparser.com/ 
+- "ELF vs. Mach-O" http://timetobleed.com/dynamic-linking-elf-vs-mach-o/
+- "ELF vs. Mach-O 2" http://timetobleed.com/dynamic-symbol-table-duel-elf-vs-mach-o-round-2/
+- "Where did the fork go?" http://thorstenball.com/blog/2014/06/13/where-did-fork-go/
+
+#### Tools
+- "Quickly determine the capabilities of an ELF binary through static analysis" http://elfparser.com/
+- "LIEF (Library to Instrument Executable Formats) https://lief.quarkslab.com/"
+- "Dumps the contents of a SysV shared memory segment" https://github.com/niklata/shmcat
+- "ld-linux code injector" https://github.com/sduverger/ld-shatner
 
 #### Other
-- "ElfParser blog" http://www.blog.elfparser.com/ 
 - binary samples for testing https://github.com/JonathanSalwan
 - "Building a concrete alternative to IDA - Radare2 to the rescue!" https://recon.cx/2015/slides/recon2015-04-jeffrey-crowell-julien-voisin-Radare2-building-a-new-IDA.pdf
 - "Introduction to Reverse Engineering Software in Linux" http://ouah.org/RevEng/ 
@@ -198,18 +217,7 @@ Work in progress as I am actively collecting these.
 - https://github.com/citypw/citypw-SCFE/tree/master/security
 - http://mammon.github.io/
 - https://code.google.com/p/corkami/downloads/list & https://code.google.com/p/corkami/source/browse/#svn/trunk/wip/elf
-- "How to detect virtualization on Linux" http://www.dmo.ca/blog/detecting-virtualization-on-linux/
-- "Mechanisms to determine VMWare VM" http://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=1009458
-- "Hacking the wholism of GNU/Linux net*" http://kernelnewbies.org/Networking?action=AttachFile&do=get&target=hacking_the_wholism_of_linux_net.txt
-- "Linux Device Drivers" https://lwn.net/Kernel/LDD3/
-- "Toolkit to detect/crash/attack GNU debugging tools" https://github.com/jvoisin/pangu
-- "ld-linux code injector" https://github.com/sduverger/ld-shatner
-- "Linux Data Structures" http://tldp.org/LDP/tlk/ds/ds.html
-- "Dumps the contents of a SysV shared memory segment" https://github.com/niklata/shmcat
-- "ELF Eccentricities - Julian Bangert, Sergey Bratus" https://www.youtube.com/watch?v=4LU6N6THh2U
 - https://github.com/jbangert/mithril
-- "ELF vs. Mach-O" http://timetobleed.com/dynamic-linking-elf-vs-mach-o/
-- "ELF vs. Mach-O 2" http://timetobleed.com/dynamic-symbol-table-duel-elf-vs-mach-o-round-2/
 - "Measuring Linux at Runtime" http://www.unixist.com/security/measuring-linux-at-runtime/index.html coupled with https://github.com/unixist/camb
 - http://0x90909090.blogspot.fr/2015/07/no-one-expect-command-execution.html
 - "Emulating Linux MIPS in Perl" http://schplog.schmorp.de/2015-06-08-emulating-linux-mips-in-perl-1.html
@@ -218,12 +226,8 @@ Work in progress as I am actively collecting these.
 - https://people.debian.org/~aurel32/qemu/
 - "Write Yourself an Strace in 70 Lines of Code" https://blog.nelhage.com/2010/08/write-yourself-an-strace-in-70-lines-of-code/
 - "Status of the Kernel Self Protection Project" https://outflux.net/slides/2016/lss/kspp.pdf
-- "Quickly determine the capabilities of an ELF binary through static analysis" http://elfparser.com/
-- "Where did the fork go?" http://thorstenball.com/blog/2014/06/13/where-did-fork-go/
 - "Why is the ELF execution entry point virtual address of the form 0x80xxxxx and not zero 0x0?" http://stackoverflow.com/questions/2187484/why-is-the-elf-execution-entry-point-virtual-address-of-the-form-0x80xxxxx-and-n
 - "Why do virtual memory addresses for linux binaries start at 0x8048000?" http://stackoverflow.com/questions/2966426/why-do-virtual-memory-addresses-for-linux-binaries-start-at-0x8048000
-- "Linux process states" https://idea.popcount.org/2012-12-11-linux-process-states/
-- "Relocations, relocations" http://www.mindfruit.co.uk/2012/06/relocations-relocations.html
 - "Writing a Linux Debugger Part 1: Setup" http://blog.tartanllama.xyz/c++/2017/03/21/writing-a-linux-debugger-setup/
 - "Writing a Linux Debugger Part 2: Breakpoints" http://blog.tartanllama.xyz/c++/2017/03/24/writing-a-linux-debugger-breakpoints/
 - "Writing a Linux Debugger Part 3: Registers and memory" http://blog.tartanllama.xyz/c++/2017/03/31/writing-a-linux-debugger-registers/
