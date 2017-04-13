@@ -82,6 +82,7 @@ Work in progress as I am actively collecting these.
 #### Anti techniques
 
 - "LINUX ANTI-DEBUGGING TECHNIQUES (FOOLING THE DEBUGGER)" http://www.ouah.org/linux-anti-debugging.txt
+- "Beginners guide to basic Linux anti anti debugging techniques" http://www.stonedcoder.org/~kd/lib/14-61-1-PB.pdf
 - "Kickers of ELF" http://www.muppetlabs.com/~breadbox/software/elfkickers.html
 - "ELF header abuse" https://github.com/strazzere/IDAnt-wanna
 - "Toolkit to detect/crash/attack GNU debugging-related tools" https://github.com/jvoisin/pangu
