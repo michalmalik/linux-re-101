@@ -64,6 +64,7 @@ Work in progress as I am actively collecting these.
 - "Burneye protector" http://packetstormsecurity.com/files/30648/burneye-1.0.1-src.tar.bz2.html
 - "ELF Encrypter" http://elf-encrypter.sourceforge.net/
 - "midgetpack is a multiplatform secure ELF packer" https://github.com/arisada/midgetpack
+- "ELF Binary Code Injection, Loader/'Decrypter'" http://www.pinkstyle.org/elfcrypt.html
 
 #### Exploitation
 
