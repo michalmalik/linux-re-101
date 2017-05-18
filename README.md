@@ -17,6 +17,7 @@ Work in progress as I am actively collecting these.
 
 #### Must read
 
+- "The 101 of ELF Binaries on Linux: Understanding and Analysis" https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/
 - ELF101 from Corkami (Ange Albertini) http://imgur.com/a/JEObT
 - "How programs get run: ELF binaries" https://lwn.net/Articles/631631/
 - "How statically linked programs run on Linux" http://eli.thegreenplace.net/2012/08/13/how-statically-linked-programs-run-on-linux
