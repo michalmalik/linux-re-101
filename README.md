@@ -15,6 +15,20 @@ Work in progress as I am actively collecting these.
 - "ELF for the ARM64" http://infocenter.arm.com/help/topic/com.arm.doc.ihi0056b/IHI0056B_aaelf64.pdf
 - "How to write shared libraries" by Ulrich Drepper http://www.akkadia.org/drepper/dsohowto.pdf    
 
+#### Must read
+
+- ELF101 from Corkami (Ange Albertini) http://imgur.com/a/JEObT
+- "How programs get run: ELF binaries" https://lwn.net/Articles/631631/
+- "How statically linked programs run on Linux" http://eli.thegreenplace.net/2012/08/13/how-statically-linked-programs-run-on-linux
+- "A Whirlwind Tutorial on Creating Really Teensy ELF Executables for Linux" http://www.muppetlabs.com/~breadbox/software/tiny/teensy.html
+- "The Definitive Guide to Linux System Calls" https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/
+- "LINUX ANTI-DEBUGGING TECHNIQUES (FOOLING THE DEBUGGER)" http://www.ouah.org/linux-anti-debugging.txt
+- "UNIX ELF PARASITES AND VIRUS" http://ouah.org/elf-pv.txt
+- "Linux on the Half-ELF" http://mammon.github.io/tales/linux_re.txt
+- "Learning Linux Binary Analysis" by Ryan O'Neill
+- https://www.cs.stevens.edu/~jschauma/631/elf.html
+- "LD_NOT_PRELOADED_FOR_REAL" http://haxelion.eu/article/LD_NOT_PRELOADED_FOR_REAL/
+
 #### 101
 
 - *Optional*: "Guide to x86 assembly" http://www.cs.virginia.edu/~evans/cs216/guides/x86.html
