@@ -202,6 +202,7 @@ Work in progress as I am actively collecting these.
 - "Reverse Engineering With Radare2 – Part 3" https://insinuator.net/2016/10/reverse-engineering-with-radare2-part-3/
 
 #### Research and development
+- "Understanding Linux Malware" http://www.s3.eurecom.fr/docs/oakland18_cozzi.pdf (good paper!)
 - binary samples for testing https://github.com/JonathanSalwan
 - "ELF Eccentricities - Julian Bangert, Sergey Bratus" https://www.youtube.com/watch?v=4LU6N6THh2U
 - "ELF-Miner: Using structural knowledge and data mining methods to detect new (Linux) malicious executables" http://www.genetic-programming.org/hc2011/05-Farooq/Farooq-Paper.pdf
