@@ -29,6 +29,7 @@ Work in progress as I am actively collecting these.
 - "Learning Linux Binary Analysis" by Ryan O'Neill
 - https://www.cs.stevens.edu/~jschauma/631/elf.html
 - "LD_NOT_PRELOADED_FOR_REAL" http://haxelion.eu/article/LD_NOT_PRELOADED_FOR_REAL/
+- "Understanding Linux Malware" http://www.s3.eurecom.fr/docs/oakland18_cozzi.pdf (good paper!)
 
 #### 101
 
