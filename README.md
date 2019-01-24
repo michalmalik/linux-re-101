@@ -221,6 +221,7 @@ Work in progress as I am actively collecting these.
 - "Writing a Linux Debugger Part 2: Breakpoints" http://blog.tartanllama.xyz/c++/2017/03/24/writing-a-linux-debugger-breakpoints/
 - "Writing a Linux Debugger Part 3: Registers and memory" http://blog.tartanllama.xyz/c++/2017/03/31/writing-a-linux-debugger-registers/
 - "Writing a Linux Debugger Part 4: Elves and dwarves" http://blog.tartanllama.xyz/c++/2017/04/05/writing-a-linux-debugger-elf-dwarf/
+- "How to write a rootkit without really trying" https://blog.trailofbits.com/2019/01/17/how-to-write-a-rootkit-without-really-trying/
 
 #### Tools
 
