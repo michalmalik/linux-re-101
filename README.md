@@ -263,3 +263,5 @@ Work in progress as I am actively collecting these.
 - "The Shellcoder's Handbook: Discovering and Exploiting Security Holes" by Chris Anley, John Heasman, Felix Lindner
 - "The Linux Programming Interface" by Michael Kerrisk
 - "Learning Linux Binary Analysis" by Ryan O'Neill
+- "Practical Binary Analysis: Build Your Own Linux Tools for Binary Instrumentation, Analysis, and Disassembly" by Dennis Andriesse
+
