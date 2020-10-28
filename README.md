@@ -81,6 +81,7 @@ Work in progress as I am actively collecting these.
 - "ELF Encrypter" http://elf-encrypter.sourceforge.net/
 - "midgetpack is a multiplatform secure ELF packer" https://github.com/arisada/midgetpack
 - "ELF Binary Code Injection, Loader/'Decrypter'" http://www.pinkstyle.org/elfcrypt.html
+- "Linux ELF Runtime Crypter" https://www.guitmz.com/linux-elf-runtime-crypter/
 - "Linux Based Inter-Process Code Injection Without Ptrace(2)" https://blog.gdssecurity.com/labs/2017/9/5/linux-based-inter-process-code-injection-without-ptrace2.html
 - "ELF in-memory execution" https://blog.fbkcs.ru/elf-in-memory-execution/
 - Super Stealthy Droppers https://0x00sec.org/t/super-stealthy-droppers/3715
