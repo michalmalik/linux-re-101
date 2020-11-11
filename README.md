@@ -69,6 +69,7 @@ Work in progress as I am actively collecting these.
 - "Position Independent Code (PIC) in shared libraries " http://eli.thegreenplace.net/2011/11/03/position-independent-code-pic-in-shared-libraries/
 - "Position Independent Code (PIC) in shared libraries x64" http://eli.thegreenplace.net/2011/11/11/position-independent-code-pic-in-shared-libraries-on-x64/
 - "Relocations, relocations" http://www.mindfruit.co.uk/2012/06/relocations-relocations.html
+-  "DT_GNU_HASH" http://deroko.phearless.org/dt_gnu_hash.txt
 - *Good night reading*: "Linux on the Half-ELF" http://mammon.github.io/tales/linux_re.txt
 
 #### Packers, obfuscation, and encryption
@@ -84,7 +85,8 @@ Work in progress as I am actively collecting these.
 - "Linux ELF Runtime Crypter" https://www.guitmz.com/linux-elf-runtime-crypter/
 - "Linux Based Inter-Process Code Injection Without Ptrace(2)" https://blog.gdssecurity.com/labs/2017/9/5/linux-based-inter-process-code-injection-without-ptrace2.html
 - "ELF in-memory execution" https://blog.fbkcs.ru/elf-in-memory-execution/
-- Super Stealthy Droppers https://0x00sec.org/t/super-stealthy-droppers/3715
+- "Super Stealthy Droppers" https://0x00sec.org/t/super-stealthy-droppers/3715
+- "Running ELF executables from memory" https://www.guitmz.com/running-elf-from-memory/
 
 #### Exploitation
 
@@ -140,6 +142,7 @@ Work in progress as I am actively collecting these.
 - VX Heaven collection of viruses http://vxer.org/vl.php?dir=Virus.Linux
 - http://vxer.org/herm1t/
 - Source code of infection techniques http://vxer.org/herm1t/examples.tar.gz by herm1t
+- "PT_NOTE to PT_LOAD Injection in ELF" https://www.symbolcrash.com/2019/03/27/pt_note-to-pt_load-injection-in-elf/
 
 #### Linux kernel, rootkits, and LKM development
 
