@@ -87,6 +87,7 @@ Work in progress as I am actively collecting these.
 - "ELF in-memory execution" https://blog.fbkcs.ru/elf-in-memory-execution/
 - "Super Stealthy Droppers" https://0x00sec.org/t/super-stealthy-droppers/3715
 - "Running ELF executables from memory" https://www.guitmz.com/running-elf-from-memory/
+- "Detecting Linux memfd_create() Fileless Malware with Command Line Forensics" https://www.sandflysecurity.com/blog/detecting-linux-memfd_create-fileless-malware-with-command-line-forensics/
 
 #### Exploitation
 
