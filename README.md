@@ -88,6 +88,7 @@ Work in progress as I am actively collecting these.
 - "Super Stealthy Droppers" https://0x00sec.org/t/super-stealthy-droppers/3715
 - "Running ELF executables from memory" https://www.guitmz.com/running-elf-from-memory/
 - "Detecting Linux memfd_create() Fileless Malware with Command Line Forensics" https://www.sandflysecurity.com/blog/detecting-linux-memfd_create-fileless-malware-with-command-line-forensics/
+- "Using eBPF to uncover in-memory loading" https://blog.tofile.dev/2021/02/15/ebpf-01.html
 
 #### Exploitation
 
