@@ -264,6 +264,7 @@ Work in progress as I am actively collecting these.
 - https://people.debian.org/~aurel32/qemu/
 - "Why is the ELF execution entry point virtual address of the form 0x80xxxxx and not zero 0x0?" http://stackoverflow.com/questions/2187484/why-is-the-elf-execution-entry-point-virtual-address-of-the-form-0x80xxxxx-and-n
 - "Why do virtual memory addresses for linux binaries start at 0x8048000?" http://stackoverflow.com/questions/2966426/why-do-virtual-memory-addresses-for-linux-binaries-start-at-0x8048000
+- "Playing with Process Memory Integrity on Linux" https://redcanary.com/blog/process-memory-integrity-linux/
 
 #### Books
 - "Malware Forensics Field Guide for Linux Systems" by Cameron H. Malin, Eoghan Casey, James M. Aquilina
