@@ -178,7 +178,7 @@ Work in progress as I am actively collecting these.
 - https://github.com/mfontanini/Programs-Scripts/blob/master/rootkit/rootkit.c
 - "Linux: Creating an entry in /proc file system (Part 1: The hello_proc pseudo file)" http://pointer-overloading.blogspot.in/2013/09/linux-creating-entry-in-proc-file.html
 - Answer to "Ripping out the hidden kernel module by reading kernel memory directly?" http://stackoverflow.com/a/18464599
-- "User space memory access from the Linux kernel" http://www.ibm.com/developerworks/library/l-kernel-memory-access/
+- "User space memory access from the Linux kernel" https://developer.ibm.com/articles/l-kernel-memory-access/
 - "get_user_pages example" http://krishnamohanlinux.blogspot.sk/2015/02/getuserpages-example.html
 - "Horse Pill: A New Type Of Linux Rootkit" https://www.blackhat.com/docs/us-16/materials/us-16-Leibowitz-Horse-Pill-A-New-Type-Of-Linux-Rootkit.pdf
 - "vlany, Linux (LD_PRELOAD) rootkit" https://github.com/mempodippy/vlany
