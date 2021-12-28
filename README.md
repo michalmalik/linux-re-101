@@ -187,6 +187,7 @@ Work in progress as I am actively collecting these.
 - "Linux Data Structures" http://tldp.org/LDP/tlk/ds/ds.html
 - "Status of the Kernel Self Protection Project" https://outflux.net/slides/2016/lss/kspp.pdf
 - "The Proc Connector and Socket Filters" http://netsplit.com/the-proc-connector-and-socket-filters
+- "Linux Rootkits: New Methods for Kernel 5.7+" https://xcellerator.github.io/posts/linux_rootkits_11/
 
 #### Crackmes and challenges
 
