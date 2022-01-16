@@ -211,6 +211,7 @@ Work in progress as I am actively collecting these.
 - https://samsymons.com/blog/reverse-engineering-with-radare2-part-1/
 - "Reverse Engineering With Radare2 – Part 2" https://insinuator.net/2016/08/reverse-engineering-with-radare2-part-2/
 - "Reverse Engineering With Radare2 – Part 3" https://insinuator.net/2016/10/reverse-engineering-with-radare2-part-3/
+- "Reverse Engineering Ebpfkit Rootkit With BlackBerry's Enhanced IDA Processor Tool" https://blogs.blackberry.com/en/2021/12/reverse-engineering-ebpfkit-rootkit-with-blackberrys-free-ida-processor-tool
 
 #### Research and development
 - "Understanding Linux Malware" http://www.s3.eurecom.fr/docs/oakland18_cozzi.pdf (good paper!)
