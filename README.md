@@ -195,6 +195,7 @@ Work in progress as I am actively collecting these.
 - "IOLI crackme" http://dustri.org/b/files/IOLI-crackme.tar.gz
 - http://security.cs.rpi.edu/courses/binexp-spring2015/lectures/2/challenges.zip from "Modern Binary Exploitation"
 - "Exercises" section in http://beginners.re/Reverse_Engineering_for_Beginners-en.pdf
+- "Crackmes.one, thousands of crackme exercises and solutions." https://crackmes.one/
 
 #### Analyzes, "hands-on", analysis techniques
 
